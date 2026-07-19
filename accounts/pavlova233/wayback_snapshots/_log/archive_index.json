@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-19T22:24:33",
+  "last_updated": "2026-07-19T22:24:56",
   "html": {
     "https://web.archive.org/web/20260630143012if_/https://twitter.com/pavlova233/status/2071964526040498547": {
       "status": "done",
@@ -515,9 +515,9 @@
       "referenced_by": [
         "20260707073730_twitter_com_pavlova233_status_2074397380057981219.json"
       ],
-      "last_updated": "2026-07-19T22:23:22",
+      "last_updated": "2026-07-19T22:24:56",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260707073730/https://pbs.twimg.com/media/HMmwrhJaMAAoKWM.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HMncGcla8AAjonX.jpg": {
       "status": "done",
