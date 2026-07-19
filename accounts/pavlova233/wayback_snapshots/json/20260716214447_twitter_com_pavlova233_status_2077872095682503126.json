@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2077819480009482364",
+    "created_at": "2026-07-16T21:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T22:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077872095682503126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1825733032151756801",
+          "start": 0,
+          "username": "LKDenchin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077872095682503126",
+    "in_reply_to_user_id": "1676119892230037509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077871579233755189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LKDenchin 而就这件事而言我一直在用我的笔记本剩余空间不足以完成任务来逃避，与此同时我也错过了进一步发展与学习知识的机会。而你在大学能够把之前的知识积累用上打比赛拿奖金，证明探索的价值，过程的难度是我无法想象的。若继续下去对提升自己能力和探索喜欢的方向帮助不大的话，按下暂停键也是正确的选择。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2077819480009482364",
+        "created_at": "2026-07-16T21:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T22:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077872095682503126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825733032151756801",
+              "start": 0,
+              "username": "LKDenchin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077872095682503126",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077871579233755189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LKDenchin 而就这件事而言我一直在用我的笔记本剩余空间不足以完成任务来逃避，与此同时我也错过了进一步发展与学习知识的机会。而你在大学能够把之前的知识积累用上打比赛拿奖金，证明探索的价值，过程的难度是我无法想象的。若继续下去对提升自己能力和探索喜欢的方向帮助不大的话，按下暂停键也是正确的选择。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2077819480009482364",
+        "created_at": "2026-07-16T21:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T22:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077871579233755189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825733032151756801",
+              "start": 0,
+              "username": "LKDenchin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077871579233755189",
+        "in_reply_to_user_id": "1825733032151756801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077819480009482364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LKDenchin 能坚持到现在真的很不容易了，即使当时你给它做包或许只是疏解情绪的方式，但是你最终完成了大多数人难以完成的事情。我的刷机历程基本停滞在怎么把一个现有的包刷入设备，最多只是把这个过程总结下来，或根据零散的信息尝试修复一点移植包的问题。接近退坑也没能亲自动手编译出一个可用的系统。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/nvV9bmQA1v"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 290,
+          "like_count": 8393,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/nvV9bmQA1v",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-20T03:14:23.000Z",
+        "description": "大一蒟蒻在读 | 非科班计算机 | ASD+ADHD | INTJ | Project Treble | Cpp开发学习中 | Blog: https://t.co/PUizv92ww2 | 逢坂大河赛高！| 龙与虎一生推！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.1007777.xyz",
+                "end": 93,
+                "expanded_url": "https://blog.1007777.xyz",
+                "start": 70,
+                "url": "https://t.co/PUizv92ww2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.1007777.xyz",
+                "end": 23,
+                "expanded_url": "http://blog.1007777.xyz",
+                "start": 0,
+                "url": "https://t.co/W9KkfY41Tp"
+              }
+            ]
+          }
+        },
+        "id": "1825733032151756801",
+        "location": "Canton, China",
+        "name": "LKDenchin",
+        "pinned_tweet_id": "2058908179384406220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050444945090383872/13FFGUjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 748,
+          "like_count": 2847,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/W9KkfY41Tp",
+        "username": "LKDenchin",
+        "verified": true
+      }
+    ]
+  }
+}

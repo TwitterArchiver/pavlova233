@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2075920667074347488",
+    "created_at": "2026-07-11T12:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075921872500490595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075921872500490595",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075921155358405028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love 差点忘了 谢谢泥给的思路喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2075920667074347488",
+        "created_at": "2026-07-11T12:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075921872500490595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075921872500490595",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075921155358405028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 差点忘了 谢谢泥给的思路喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2075920667074347488",
+        "created_at": "2026-07-11T12:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075921155358405028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075921155358405028",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075920667074347488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 好诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 305,
+          "like_count": 7495,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/破茧成蝶/留长发中/无糖/向往自由/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "qiuylove"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 1030,
+          "like_count": 198781,
+          "listed_count": 3,
+          "media_count": 934,
+          "tweet_count": 7702
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

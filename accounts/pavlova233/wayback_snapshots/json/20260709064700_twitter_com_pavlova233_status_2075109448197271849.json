@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2065885303802622222",
+    "created_at": "2026-07-09T06:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075109448197271849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224020250733268995",
+          "start": 0,
+          "username": "appleneko2001"
+        },
+        {
+          "end": 24,
+          "id": "2028802782019596288",
+          "start": 15,
+          "username": "ciallowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075109448197271849",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075033179958936059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@appleneko2001 @ciallowo 一直想买个 Qin3U 玩玩 小手机是对的 \n但这小东西真的好贵 二手同样的价格可以买到很多骁龙 865 甚至天玑 8100 的机子了 溢价太严重 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2065885303802622222",
+        "created_at": "2026-07-09T06:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075109448197271849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 24,
+              "id": "2028802782019596288",
+              "start": 15,
+              "username": "ciallowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075109448197271849",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075033179958936059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @ciallowo 一直想买个 Qin3U 玩玩 小手机是对的 \n但这小东西真的好贵 二手同样的价格可以买到很多骁龙 865 甚至天玑 8100 的机子了 溢价太严重 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2065885303802622222",
+        "created_at": "2026-07-09T01:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075033179958936059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            },
+            {
+              "end": 21,
+              "id": "2028802782019596288",
+              "start": 12,
+              "username": "ciallowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075033179958936059",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066030990359998758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 @ciallowo 抱抱…\n咱也刷坏过自己的Qin3Ultra的说 要不是咱备份了全盘镜象这手机真的废了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 297,
+          "like_count": 7106,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 286,
+          "like_count": 114900,
+          "listed_count": 2,
+          "media_count": 1708,
+          "tweet_count": 18026
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:01:07.000Z",
+        "description": "哈囉哈囉，這裡是小霧喵。很高興認識你喵～希望能帶給你更多快樂一點… \n| 11後 | 165 51 | ISFP | 國/初二 | 泛性戀？ | 友跨喵 | 咱不是跨… | 不割手手/od | 嘴笨笨滴 | zh-cn/zh-tw/en | 成分/私信回 | 故鄉台灣 | 現居大陸 | Nonpartisan&不鍵政…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.ciallovo.top/github",
+                "end": 23,
+                "expanded_url": "https://s.ciallovo.top/github",
+                "start": 0,
+                "url": "https://t.co/dCszp85rjF"
+              }
+            ]
+          }
+        },
+        "id": "2028802782019596288",
+        "location": "距離地球99兆米",
+        "name": "小霧喵～",
+        "pinned_tweet_id": "2069789597970903282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058500600917295104/iRL6lP95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 387,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/dCszp85rjF",
+        "username": "ciallowo",
+        "verified": true
+      }
+    ]
+  }
+}

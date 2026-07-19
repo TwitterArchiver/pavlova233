@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      }
+    ],
+    "conversation_id": "2074202499435942055",
+    "created_at": "2026-07-06T23:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T00:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074270696503693466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934766733237342209",
+          "start": 0,
+          "username": "Adrawta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074270696503693466",
+    "in_reply_to_user_id": "1934766733237342209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074266188142805016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adrawta 找了半天没有 Cubism 2.1 的模型 只有 Cubism 4 \n这个模板内置的 live2d 似乎只支持导 2.1 模型 (用 AI 加了 Cubism 4 支持才勉强能用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2074202499435942055",
+        "created_at": "2026-07-06T23:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074270696503693466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934766733237342209",
+              "start": 0,
+              "username": "Adrawta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074270696503693466",
+        "in_reply_to_user_id": "1934766733237342209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074266188142805016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adrawta 找了半天没有 Cubism 2.1 的模型 只有 Cubism 4 \n这个模板内置的 live2d 似乎只支持导 2.1 模型 (用 AI 加了 Cubism 4 支持才勉强能用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934766733237342209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2074202499435942055",
+        "created_at": "2026-07-06T22:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074266188142805016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074266188142805016",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074202499435942055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 還有Airi live2d！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 291,
+          "like_count": 6592,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "technerd · speculator · dreamer/觀點大概是在玩抽象👀/dm open~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/z6v8G0CcWj"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "location": "Anywhere",
+        "name": "raw_data;🌙",
+        "pinned_tweet_id": "2070824856535327067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071889495113297920/uRulgZ4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 104,
+          "like_count": 2672,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/z6v8G0CcWj",
+        "username": "Adrawta",
+        "verified": true
+      }
+    ]
+  }
+}

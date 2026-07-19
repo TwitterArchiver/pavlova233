@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074202496709562368",
+        "3_2074202495933636608",
+        "3_2074202496218898432",
+        "3_2074202496038506496"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074202499435942055",
+    "created_at": "2026-07-06T18:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074202499435942055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Nekro's Blog - 日常记录 & 经验分享",
+          "display_url": "blog.nekro.top",
+          "end": 34,
+          "expanded_url": "http://blog.nekro.top",
+          "start": 11,
+          "status": 200,
+          "title": "Nekro's Blog - 日常记录 & 经验分享",
+          "unwound_url": "https://blog.nekro.top/",
+          "url": "https://t.co/O7IzMYLcvF"
+        },
+        {
+          "description": "下一代Material Design 3 博客主题(Astro驱动). Contribute to LyraVoid/Mizuki development by creating an account on GitHub.",
+          "display_url": "github.com/LyraVoid/Mizuki",
+          "end": 91,
+          "expanded_url": "http://github.com/LyraVoid/Mizuki",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2074202504993390592/iIwf7CVb?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074202504993390592/iIwf7CVb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 68,
+          "status": 200,
+          "title": "GitHub - LyraVoid/Mizuki: 下一代Material Design 3 博客主题(Astro驱动)",
+          "unwound_url": "https://github.com/LyraVoid/Mizuki",
+          "url": "https://t.co/e5Z9P2f3on"
+        },
+        {
+          "description": "凡是过往 皆为序章",
+          "display_url": "notion.nekro.top",
+          "end": 148,
+          "expanded_url": "http://notion.nekro.top",
+          "start": 125,
+          "status": 200,
+          "title": "Nekro’s Blog | 凡是过往 皆为序章",
+          "unwound_url": "https://notion.nekro.top/",
+          "url": "https://t.co/UbF1jmGoRs"
+        },
+        {
+          "display_url": "pic.x.com/pf7od3rJLB",
+          "end": 213,
+          "expanded_url": "https://x.com/pavlova233/status/2074202499435942055/photo/1",
+          "media_key": "3_2074202496709562368",
+          "start": 190,
+          "url": "https://t.co/pf7od3rJLB"
+        },
+        {
+          "display_url": "pic.x.com/pf7od3rJLB",
+          "end": 213,
+          "expanded_url": "https://x.com/pavlova233/status/2074202499435942055/photo/1",
+          "media_key": "3_2074202495933636608",
+          "start": 190,
+          "url": "https://t.co/pf7od3rJLB"
+        },
+        {
+          "display_url": "pic.x.com/pf7od3rJLB",
+          "end": 213,
+          "expanded_url": "https://x.com/pavlova233/status/2074202499435942055/photo/1",
+          "media_key": "3_2074202496218898432",
+          "start": 190,
+          "url": "https://t.co/pf7od3rJLB"
+        },
+        {
+          "display_url": "pic.x.com/pf7od3rJLB",
+          "end": 213,
+          "expanded_url": "https://x.com/pavlova233/status/2074202499435942055/photo/1",
+          "media_key": "3_2074202496038506496",
+          "start": 190,
+          "url": "https://t.co/pf7od3rJLB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074202499435942055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "迁移了下自己的博客 (https://t.co/O7IzMYLcvF) 😋\n使用 Mizuki 这一基于 Astro 的静态博客模板 (https://t.co/e5Z9P2f3on)，真的好好看。\n另外保留原先用 NotionNext 建的博客 (https://t.co/UbF1jmGoRs)，只是后面的文章不一定在上面更新，平时管理文章很方便只可惜不太好自定义，已弃坑。 https://t.co/pf7od3rJLB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2074202496709562368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkMLmCaEAAEGQ5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2074202495933636608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkMLjJaYAA80Nb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2074202496218898432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkMLkNbIAA4VjI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2074202496038506496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkMLjiakAAB2my.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074202496709562368",
+            "3_2074202495933636608",
+            "3_2074202496218898432",
+            "3_2074202496038506496"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074202499435942055",
+        "created_at": "2026-07-06T18:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074202499435942055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Nekro's Blog - 日常记录 & 经验分享",
+              "display_url": "blog.nekro.top",
+              "end": 34,
+              "expanded_url": "http://blog.nekro.top",
+              "start": 11,
+              "status": 200,
+              "title": "Nekro's Blog - 日常记录 & 经验分享",
+              "unwound_url": "https://blog.nekro.top/",
+              "url": "https://t.co/O7IzMYLcvF"
+            },
+            {
+              "description": "下一代Material Design 3 博客主题(Astro驱动). Contribute to LyraVoid/Mizuki development by creating an account on GitHub.",
+              "display_url": "github.com/LyraVoid/Mizuki",
+              "end": 91,
+              "expanded_url": "http://github.com/LyraVoid/Mizuki",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2074202504993390592/iIwf7CVb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074202504993390592/iIwf7CVb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 68,
+              "status": 200,
+              "title": "GitHub - LyraVoid/Mizuki: 下一代Material Design 3 博客主题(Astro驱动)",
+              "unwound_url": "https://github.com/LyraVoid/Mizuki",
+              "url": "https://t.co/e5Z9P2f3on"
+            },
+            {
+              "description": "凡是过往 皆为序章",
+              "display_url": "notion.nekro.top",
+              "end": 148,
+              "expanded_url": "http://notion.nekro.top",
+              "start": 125,
+              "status": 200,
+              "title": "Nekro’s Blog | 凡是过往 皆为序章",
+              "unwound_url": "https://notion.nekro.top/",
+              "url": "https://t.co/UbF1jmGoRs"
+            },
+            {
+              "display_url": "pic.x.com/pf7od3rJLB",
+              "end": 213,
+              "expanded_url": "https://x.com/pavlova233/status/2074202499435942055/photo/1",
+              "media_key": "3_2074202496709562368",
+              "start": 190,
+              "url": "https://t.co/pf7od3rJLB"
+            },
+            {
+              "display_url": "pic.x.com/pf7od3rJLB",
+              "end": 213,
+              "expanded_url": "https://x.com/pavlova233/status/2074202499435942055/photo/1",
+              "media_key": "3_2074202495933636608",
+              "start": 190,
+              "url": "https://t.co/pf7od3rJLB"
+            },
+            {
+              "display_url": "pic.x.com/pf7od3rJLB",
+              "end": 213,
+              "expanded_url": "https://x.com/pavlova233/status/2074202499435942055/photo/1",
+              "media_key": "3_2074202496218898432",
+              "start": 190,
+              "url": "https://t.co/pf7od3rJLB"
+            },
+            {
+              "display_url": "pic.x.com/pf7od3rJLB",
+              "end": 213,
+              "expanded_url": "https://x.com/pavlova233/status/2074202499435942055/photo/1",
+              "media_key": "3_2074202496038506496",
+              "start": 190,
+              "url": "https://t.co/pf7od3rJLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074202499435942055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迁移了下自己的博客 (https://t.co/O7IzMYLcvF) 😋\n使用 Mizuki 这一基于 Astro 的静态博客模板 (https://t.co/e5Z9P2f3on)，真的好好看。\n另外保留原先用 NotionNext 建的博客 (https://t.co/UbF1jmGoRs)，只是后面的文章不一定在上面更新，平时管理文章很方便只可惜不太好自定义，已弃坑。 https://t.co/pf7od3rJLB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 291,
+          "like_count": 6546,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      }
+    ]
+  }
+}

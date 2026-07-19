@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2074202499435942055",
+    "created_at": "2026-07-07T06:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074374804673888563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934766733237342209",
+          "start": 0,
+          "username": "Adrawta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074374804673888563",
+    "in_reply_to_user_id": "1934766733237342209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074271819406918034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adrawta 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2074202499435942055",
+        "created_at": "2026-07-07T06:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074374804673888563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934766733237342209",
+              "start": 0,
+              "username": "Adrawta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074374804673888563",
+        "in_reply_to_user_id": "1934766733237342209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074271819406918034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adrawta 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934766733237342209",
+        "conversation_id": "2074202499435942055",
+        "created_at": "2026-07-06T23:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074271819406918034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074271819406918034",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074270696503693466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 sekai viewer存儲桶裏面好像只有新的()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 291,
+          "like_count": 6623,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "technerd · speculator · dreamer/觀點大概是在玩抽象👀/dm open~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/z6v8G0CcWj"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "location": "Anywhere",
+        "name": "raw_data;🌙",
+        "pinned_tweet_id": "2070824856535327067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071889495113297920/uRulgZ4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 105,
+          "like_count": 2747,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/z6v8G0CcWj",
+        "username": "Adrawta",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072326593675169792"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "conversation_id": "2072199599713104082",
+    "created_at": "2026-07-01T14:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072326602617503808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823399057357991936",
+          "start": 0,
+          "username": "MyDest1ny_"
+        },
+        {
+          "end": 25,
+          "id": "1330568718561153025",
+          "start": 12,
+          "username": "UserRIVAL116"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AdqO7AJiQa",
+          "end": 93,
+          "expanded_url": "https://x.com/pavlova233/status/2072326602617503808/photo/1",
+          "media_key": "3_2072326593675169792",
+          "start": 70,
+          "url": "https://t.co/AdqO7AJiQa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072326602617503808",
+    "in_reply_to_user_id": "1823399057357991936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072289310049747006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MyDest1ny_ @UserRIVAL116 很有年代感......现在租的老房子还在用这个 \n感觉固定在这一小块地方洗真的不大舒服 https://t.co/AdqO7AJiQa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2072326593675169792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJiDqqakAA825I.jpg",
+        "width": 2762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072326593675169792"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "conversation_id": "2072199599713104082",
+        "created_at": "2026-07-01T14:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072326602617503808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823399057357991936",
+              "start": 0,
+              "username": "MyDest1ny_"
+            },
+            {
+              "end": 25,
+              "id": "1330568718561153025",
+              "start": 12,
+              "username": "UserRIVAL116"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdqO7AJiQa",
+              "end": 93,
+              "expanded_url": "https://x.com/pavlova233/status/2072326602617503808/photo/1",
+              "media_key": "3_2072326593675169792",
+              "start": 70,
+              "url": "https://t.co/AdqO7AJiQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072326602617503808",
+        "in_reply_to_user_id": "1823399057357991936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072289310049747006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MyDest1ny_ @UserRIVAL116 很有年代感......现在租的老房子还在用这个 \n感觉固定在这一小块地方洗真的不大舒服 https://t.co/AdqO7AJiQa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823399057357991936",
+        "conversation_id": "2072199599713104082",
+        "created_at": "2026-07-01T12:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072289310049747006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1330568718561153025",
+              "start": 0,
+              "username": "UserRIVAL116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072289310049747006",
+        "in_reply_to_user_id": "1330568718561153025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072199599713104082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UserRIVAL116 我家很早之前有一个，大概是06年左右（？）那会我还没出生，不过后面搬家了（19年）然后就再也没见过了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nekro.top",
+                "end": 23,
+                "expanded_url": "https://www.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/INXz8Am8Dg"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 264,
+          "like_count": 5522,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/INXz8Am8Dg",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-13T16:39:55.000Z",
+        "description": "07｜喜欢美少女，随缘fo｜目前在英国上学，社交平台ID Mydest1ny/Mirukupaff｜主流游戏多多少少都有玩｜arcaea双星 范式起源彩165｜想得到很多很多的私信～",
+        "id": "1823399057357991936",
+        "location": "England, United Kingdom",
+        "name": "MyDest1ny",
+        "pinned_tweet_id": "2066880976601358545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018376512211148800/FHf9wQ_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 237,
+          "like_count": 1056,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "MyDest1ny_",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-22T17:48:20.000Z",
+        "description": "web3/ Crypto / 增长 / 互动最快之人 (｡ì _ í｡)",
+        "id": "1330568718561153025",
+        "name": "RIVAL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041052409401581568/0uMtVZ9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5306,
+          "following_count": 4346,
+          "like_count": 18275,
+          "listed_count": 7,
+          "media_count": 240,
+          "tweet_count": 5453
+        },
+        "url": "",
+        "username": "UserRIVAL116",
+        "verified": true
+      }
+    ]
+  }
+}

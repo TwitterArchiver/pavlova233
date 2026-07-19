@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2074431123342688584",
+    "created_at": "2026-07-07T10:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074434407281361274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074434407281361274",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074431123342688584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2074431106691297280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMncGcla8AAjonX.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2074431123342688584",
+        "created_at": "2026-07-07T10:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074434407281361274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074434407281361274",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074431123342688584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074431106691297280"
+          ]
+        },
+        "author_id": "1818257539886460928",
+        "conversation_id": "2074431123342688584",
+        "created_at": "2026-07-07T09:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074431123342688584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8rbKpkwPs",
+              "end": 29,
+              "expanded_url": "https://x.com/qqqqqf_/status/2074431123342688584/photo/1",
+              "media_key": "3_2074431106691297280",
+              "start": 6,
+              "url": "https://t.co/A8rbKpkwPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074431123342688584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "获得工资卡 https://t.co/A8rbKpkwPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 292,
+          "like_count": 6702,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "building https://t.co/Q5DJkrjOuI  / https://t.co/Z8CwRk435m\n博客:https://t.co/YPfuXnEcRK  \nArkloop的TelegramGroup :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Arkloop.io",
+                "end": 32,
+                "expanded_url": "http://Arkloop.io",
+                "start": 9,
+                "url": "https://t.co/Q5DJkrjOuI"
+              },
+              {
+                "display_url": "Memoh.ai",
+                "end": 59,
+                "expanded_url": "http://Memoh.ai",
+                "start": 36,
+                "url": "https://t.co/Z8CwRk435m"
+              },
+              {
+                "display_url": "清凤.fun",
+                "end": 86,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 63,
+                "url": "https://t.co/YPfuXnEcRK"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 135,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 112,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "location": "Ningbo,Zhejiang",
+        "name": "清凤",
+        "pinned_tweet_id": "2049776170246471804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 899,
+          "like_count": 18421,
+          "listed_count": 5,
+          "media_count": 315,
+          "tweet_count": 1445
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": true
+      }
+    ]
+  }
+}

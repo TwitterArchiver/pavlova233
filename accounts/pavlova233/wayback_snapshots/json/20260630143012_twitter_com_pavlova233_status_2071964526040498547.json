@@ -1,0 +1,634 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071964494801072128",
+        "3_2071964508831002624"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+          "id": "1557696986668707842",
+          "name": "Household Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1228032306784305152",
+          "name": "Interior design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278016095144665089",
+          "name": "At home"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10028889887",
+          "name": "Google Play"
+        }
+      }
+    ],
+    "conversation_id": "2071964526040498547",
+    "created_at": "2026-06-30T14:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071964526040498547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cRJ6KZ8zmn",
+          "end": 164,
+          "expanded_url": "https://x.com/pavlova233/status/2071964526040498547/photo/1",
+          "media_key": "3_2071964494801072128",
+          "start": 141,
+          "url": "https://t.co/cRJ6KZ8zmn"
+        },
+        {
+          "display_url": "pic.x.com/cRJ6KZ8zmn",
+          "end": 164,
+          "expanded_url": "https://x.com/pavlova233/status/2071964526040498547/photo/1",
+          "media_key": "3_2071964508831002624",
+          "start": 141,
+          "url": "https://t.co/cRJ6KZ8zmn"
+        },
+        {
+          "display_url": "x.com/landiantech/st…",
+          "end": 188,
+          "expanded_url": "https://twitter.com/landiantech/status/2071791703514927224",
+          "start": 165,
+          "url": "https://t.co/KYFVPAbfZF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071964526040498547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071791703514927224",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我用 Play 版本只是为了调用原生安卓的设备控制器功能，我可以直接在锁屏或控制中心快速管理家具而无需打开应用，简化了不少操作步骤。\n国内版本好像一直不支持这个功能 (至少我刚才安装的国内最新版没有)，看来我只能守在 Play 商店的旧版本了。\n小米你就这样区别对待国内用户。 https://t.co/cRJ6KZ8zmn https://t.co/KYFVPAbfZF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2071964494801072128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEYuvPW8AAn0qm.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2071964508831002624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEYvjgWsAAJ757.jpg",
+        "width": 1216
+      },
+      {
+        "height": 900,
+        "media_key": "3_2071791684980256768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB7j4fbMAAX_Zt.jpg",
+        "width": 1600
+      },
+      {
+        "height": 900,
+        "media_key": "3_2071791684980293632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB7j4fbwAAGIYR.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071964494801072128",
+            "3_2071964508831002624"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1228032306784305152",
+              "name": "Interior design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2071964526040498547",
+        "created_at": "2026-06-30T14:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071964526040498547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRJ6KZ8zmn",
+              "end": 164,
+              "expanded_url": "https://x.com/pavlova233/status/2071964526040498547/photo/1",
+              "media_key": "3_2071964494801072128",
+              "start": 141,
+              "url": "https://t.co/cRJ6KZ8zmn"
+            },
+            {
+              "display_url": "pic.x.com/cRJ6KZ8zmn",
+              "end": 164,
+              "expanded_url": "https://x.com/pavlova233/status/2071964526040498547/photo/1",
+              "media_key": "3_2071964508831002624",
+              "start": 141,
+              "url": "https://t.co/cRJ6KZ8zmn"
+            },
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/landiantech/status/2071791703514927224",
+              "start": 165,
+              "url": "https://t.co/KYFVPAbfZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071964526040498547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071791703514927224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我用 Play 版本只是为了调用原生安卓的设备控制器功能，我可以直接在锁屏或控制中心快速管理家具而无需打开应用，简化了不少操作步骤。\n国内版本好像一直不支持这个功能 (至少我刚才安装的国内最新版没有)，看来我只能守在 Play 商店的旧版本了。\n小米你就这样区别对待国内用户。 https://t.co/cRJ6KZ8zmn https://t.co/KYFVPAbfZF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071791684980256768",
+            "3_2071791684980293632"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2071791703514927224",
+        "created_at": "2026-06-30T03:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071791703514927224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rLuzXx5aR3",
+              "end": 158,
+              "expanded_url": "https://x.com/landiantech/status/2071791703514927224/photo/1",
+              "media_key": "3_2071791684980256768",
+              "start": 135,
+              "url": "https://t.co/rLuzXx5aR3"
+            },
+            {
+              "display_url": "pic.x.com/rLuzXx5aR3",
+              "end": 158,
+              "expanded_url": "https://x.com/landiantech/status/2071791703514927224/photo/1",
+              "media_key": "3_2071791684980293632",
+              "start": 135,
+              "url": "https://t.co/rLuzXx5aR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071791703514927224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ourl.co/113700?x",
+                "end": 194,
+                "expanded_url": "https://ourl.co/113700?x",
+                "start": 171,
+                "url": "https://t.co/aEBCYTytfg"
+              }
+            ]
+          },
+          "text": "小米米家谷歌 Play 版后续将不再支持中国大陆地区用户使用，国内用户需要通过国内应用商店安装米家。\n\n原本米家 Google Play 版也是支持国内和国际用户使用的，小米主要通过手机号判断用户所在国家或地区，现在非得分不同的应用安装渠道让人有些想不通，但 Play 版性能稍微好些，因此还是有不少用户更喜欢 Play 版的。\n\n查看全文：https://t.co/aEBCYTytfg"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 29729,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "小米米家谷歌 Play 版后续将不再支持中国大陆地区用户使用，国内用户需要通过国内应用商店安装米家。\n\n原本米家 Google Play 版也是支持国内和国际用户使用的，小米主要通过手机号判断用户所在国家或地区，现在非得分不同的应用安装渠道让人有些想不通，但 Play https://t.co/rLuzXx5aR3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "淡推 (退推?) | 经济困难 ing | 联系我: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nekro.top",
+                "end": 23,
+                "expanded_url": "https://www.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/QmIoqKeHr3"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 259,
+          "like_count": 5379,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/QmIoqKeHr3",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2061311181663715671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36109,
+          "following_count": 762,
+          "like_count": 5114,
+          "listed_count": 280,
+          "media_count": 5932,
+          "tweet_count": 16225
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

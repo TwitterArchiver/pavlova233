@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1486271512655003652",
+          "name": "Web3"
+        }
+      }
+    ],
+    "conversation_id": "2076259079744582102",
+    "created_at": "2026-07-12T10:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076259079744582102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2076201135128682755",
+          "start": 29,
+          "url": "https://t.co/Ym2lxchluM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076259079744582102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076201135128682755",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也来玩 ! (都先关注这个宝宝 是很好很好的伙伴呢 😋 https://t.co/Ym2lxchluM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2076259079744582102",
+        "created_at": "2026-07-12T10:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076259079744582102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2076201135128682755",
+              "start": 29,
+              "url": "https://t.co/Ym2lxchluM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076259079744582102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076201135128682755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也来玩 ! (都先关注这个宝宝 是很好很好的伙伴呢 😋 https://t.co/Ym2lxchluM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2076201135128682755",
+        "created_at": "2026-07-12T07:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076201135128682755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "蓝v互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076201135128682755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝也要玩 #蓝v互关 ！ 仅限trans/生活号/日常 禁web3/币圈\n\n一起领msk工资😋\n\n不是蓝v的也能互fo哦喵\n\n不互的话看到的麻烦点个赞转推下求求了🥺 5M浏览量呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 307,
+          "like_count": 7721,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/破茧成蝶/留长发中/无糖/向往自由/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "qiuylove"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 1037,
+          "like_count": 199133,
+          "listed_count": 3,
+          "media_count": 938,
+          "tweet_count": 7727
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

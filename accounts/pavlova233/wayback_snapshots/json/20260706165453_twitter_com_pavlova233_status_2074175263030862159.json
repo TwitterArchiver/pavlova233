@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026467895",
+          "name": "Visa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "2074149825453719782",
+    "created_at": "2026-07-06T16:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074175263030862159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816764930219212802",
+          "start": 0,
+          "username": "xFurina_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/pavlova233/sta…",
+          "end": 66,
+          "expanded_url": "https://x.com/pavlova233/status/2066938196907393498",
+          "start": 43,
+          "url": "https://t.co/JnR3qiXvrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074175263030862159",
+    "in_reply_to_user_id": "1816764930219212802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066938196907393498",
+        "type": "quoted"
+      },
+      {
+        "id": "2074172467191636408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xFurina_ 好像看地方 可以看我上个月的帖子 (得交很多材料 最后差点投诉 \nhttps://t.co/JnR3qiXvrj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2066937876466814976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK89DCua0AAOMxj.jpg",
+        "width": 1170
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2066937876441628672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK89DCoagAA1ZmG.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2066937876462686208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK89DCtb0AAkej4.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2074149825453719782",
+        "created_at": "2026-07-06T16:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074175263030862159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816764930219212802",
+              "start": 0,
+              "username": "xFurina_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/pavlova233/sta…",
+              "end": 66,
+              "expanded_url": "https://x.com/pavlova233/status/2066938196907393498",
+              "start": 43,
+              "url": "https://t.co/JnR3qiXvrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074175263030862159",
+        "in_reply_to_user_id": "1816764930219212802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066938196907393498",
+            "type": "quoted"
+          },
+          {
+            "id": "2074172467191636408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xFurina_ 好像看地方 可以看我上个月的帖子 (得交很多材料 最后差点投诉 \nhttps://t.co/JnR3qiXvrj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066937876466814976",
+            "3_2066937876441628672",
+            "3_2066937876462686208"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2066938196907393498",
+        "created_at": "2026-06-16T17:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066938196907393498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0uJkmmxsE",
+              "end": 177,
+              "expanded_url": "https://x.com/Ayyyyano/status/2066938196907393498/photo/1",
+              "media_key": "3_2066937876466814976",
+              "start": 154,
+              "url": "https://t.co/c0uJkmmxsE"
+            },
+            {
+              "display_url": "pic.x.com/c0uJkmmxsE",
+              "end": 177,
+              "expanded_url": "https://x.com/Ayyyyano/status/2066938196907393498/photo/1",
+              "media_key": "3_2066937876441628672",
+              "start": 154,
+              "url": "https://t.co/c0uJkmmxsE"
+            },
+            {
+              "display_url": "pic.x.com/c0uJkmmxsE",
+              "end": 177,
+              "expanded_url": "https://x.com/Ayyyyano/status/2066938196907393498/photo/1",
+              "media_key": "3_2066937876462686208",
+              "start": 154,
+              "url": "https://t.co/c0uJkmmxsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066938196907393498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2528,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未成年境内有什么容易办的 MasterCard / Visa 卡吗? \n听说招行好办就在线上申请了一张，16 岁以上填身份证可以成功申请。但到线下拿卡的时候说得家长代办且需要验证亲属关系。\n工作人员说带自己和家长的身份证与出生证明，结果自己的出生证明上没有姓名过不了，带上了户口本也是说没办法确定亲属关系。 https://t.co/c0uJkmmxsE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816764930219212802",
+        "conversation_id": "2074149825453719782",
+        "created_at": "2026-07-06T16:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074172467191636408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074172467191636408",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074168199130849650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 招行卡的没那么严吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 289,
+          "like_count": 6500,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 351
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-26T09:18:14.000Z",
+        "description": "10 后 mtf｜ 同类来和我互fo啦～\n爱每一个友好的宝宝！立志成为一只萌妹！\n最爱我的姐姐：@Kuriyona \ntelegram:xFurina1013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "Kuriyona"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "candyrect.com",
+                "end": 23,
+                "expanded_url": "http://candyrect.com",
+                "start": 0,
+                "url": "https://t.co/YZnQ6u9X6x"
+              }
+            ]
+          }
+        },
+        "id": "1816764930219212802",
+        "location": "Shanghai Pudong New Area",
+        "name": "鱼块糯🏳️‍⚧️",
+        "pinned_tweet_id": "2072654206415290516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069474210993590272/1zRt2NW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 411,
+          "like_count": 1247,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/YZnQ6u9X6x",
+        "username": "xFurina_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2074202499435942055",
+    "created_at": "2026-07-06T19:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074217078605939118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486893272622505984",
+          "start": 0,
+          "username": "Kuriyona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074217078605939118",
+    "in_reply_to_user_id": "1486893272622505984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074216205951586328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuriyona 🥹 我不会 (等我有那个能力自己实现再说吧 Vibe Coding 的成果终究属于不是自己的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2074202499435942055",
+        "created_at": "2026-07-06T19:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074217078605939118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486893272622505984",
+              "start": 0,
+              "username": "Kuriyona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074217078605939118",
+        "in_reply_to_user_id": "1486893272622505984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074216205951586328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuriyona 🥹 我不会 (等我有那个能力自己实现再说吧 Vibe Coding 的成果终究属于不是自己的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486893272622505984",
+        "conversation_id": "2074202499435942055",
+        "created_at": "2026-07-06T19:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074216205951586328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074216205951586328",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074202499435942055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 这个确实很好看，所以我还是选择自己手写一个不好看的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 291,
+          "like_count": 6561,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T02:46:07.000Z",
+        "description": "18 (08.6.28) | 称呼我为「未晞」吧 | 杭州 | 准大学生 | 兴趣使然的开发者 前端为主 | https://t.co/JWMV33I7TV | 最可爱的妹妹: @xFurina_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 89,
+                "username": "xFurina_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/kuriyona",
+                "end": 78,
+                "expanded_url": "http://github.com/kuriyona",
+                "start": 55,
+                "url": "https://t.co/JWMV33I7TV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuriyona.com",
+                "end": 23,
+                "expanded_url": "https://kuriyona.com/",
+                "start": 0,
+                "url": "https://t.co/PIToyCAWAz"
+              }
+            ]
+          }
+        },
+        "id": "1486893272622505984",
+        "location": "杭州 Hangzhou",
+        "name": "Kuriyona 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071218989263646720/aGhqniW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 167,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/PIToyCAWAz",
+        "username": "Kuriyona",
+        "verified": true
+      }
+    ]
+  }
+}

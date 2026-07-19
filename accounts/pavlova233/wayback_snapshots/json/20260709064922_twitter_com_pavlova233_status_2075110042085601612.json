@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2067007534037410187",
+    "created_at": "2026-07-09T06:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075110042085601612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224020250733268995",
+          "start": 0,
+          "username": "appleneko2001"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A toolkit for managing Play Integrity & System Environment - MeowDump/Integrity-Box",
+          "display_url": "github.com/MeowDump/Integ…",
+          "end": 69,
+          "expanded_url": "https://github.com/MeowDump/Integrity-Box",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2075110047240376320/b6mgbIot?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2075110047240376320/b6mgbIot?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 46,
+          "status": 200,
+          "title": "GitHub - MeowDump/Integrity-Box: A toolkit for managing Play Integrity & System Environment",
+          "unwound_url": "https://github.com/MeowDump/Integrity-Box",
+          "url": "https://t.co/sjKMBNTqs8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075110042085601612",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075032597969977542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@appleneko2001 后面用朋友推的一个模块已经可以稳定二绿了 (可以试试看?) \nhttps://t.co/sjKMBNTqs8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2067007534037410187",
+        "created_at": "2026-07-09T06:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075110042085601612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A toolkit for managing Play Integrity & System Environment - MeowDump/Integrity-Box",
+              "display_url": "github.com/MeowDump/Integ…",
+              "end": 69,
+              "expanded_url": "https://github.com/MeowDump/Integrity-Box",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2075110047240376320/b6mgbIot?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075110047240376320/b6mgbIot?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 46,
+              "status": 200,
+              "title": "GitHub - MeowDump/Integrity-Box: A toolkit for managing Play Integrity & System Environment",
+              "unwound_url": "https://github.com/MeowDump/Integrity-Box",
+              "url": "https://t.co/sjKMBNTqs8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075110042085601612",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075032597969977542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 后面用朋友推的一个模块已经可以稳定二绿了 (可以试试看?) \nhttps://t.co/sjKMBNTqs8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2067007534037410187",
+        "created_at": "2026-07-09T01:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075032597969977542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075032597969977542",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067007534037410187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 咱记得这个好象要用Keybox来伪装…？\n之前有的那些Integrity fix已经没什么用了 咱已经试过了 也是三红"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 297,
+          "like_count": 7106,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 286,
+          "like_count": 114900,
+          "listed_count": 2,
+          "media_count": 1708,
+          "tweet_count": 18026
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

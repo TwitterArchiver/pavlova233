@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2074866733173682524",
+    "created_at": "2026-07-08T17:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T18:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074910544474284393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074910544474284393",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074866733173682524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 只是 piko 没有 官方版本还是有登录限制的 (这下不得不用修改版了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074866730686402562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtoTGbW0AIYqEA.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074866730967482368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtoTHeXwAAielz.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2074866733173682524",
+        "created_at": "2026-07-08T17:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074910544474284393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074910544474284393",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074866733173682524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 只是 piko 没有 官方版本还是有登录限制的 (这下不得不用修改版了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074866730686402562",
+            "3_2074866730967482368"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "conversation_id": "2074866733173682524",
+        "created_at": "2026-07-08T14:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074866733173682524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EySXwNU9HF",
+              "end": 162,
+              "expanded_url": "https://x.com/mario_2333/status/2074866733173682524/photo/1",
+              "media_key": "3_2074866730686402562",
+              "start": 139,
+              "url": "https://t.co/EySXwNU9HF"
+            },
+            {
+              "display_url": "pic.x.com/EySXwNU9HF",
+              "end": 162,
+              "expanded_url": "https://x.com/mario_2333/status/2074866733173682524/photo/1",
+              "media_key": "3_2074866730967482368",
+              "start": 139,
+              "url": "https://t.co/EySXwNU9HF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074866733173682524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 741,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前用的修改版好久没更新发行版包了，于是自己尝试编译了一份最新版本的推特，比想象的简单好多qwq\n\n因为自己编译的签名不同不能覆盖安装，所以先再备用机上测试过，发现现在似乎没有登录限制了吗，直接用户名密码就行了qwq\n\n好处就是现在终于能用app回复推文了！私信也可以使用了！ https://t.co/EySXwNU9HF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 296,
+          "like_count": 6965,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 蓝标陌生人送的我是真人没收益😘 | 可爱猫猫💕：@Ayanami_rin0 & @A1oneSKy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Ayanami_rin0"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "A1oneSKy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8AZ2t"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3948,
+          "following_count": 279,
+          "like_count": 55358,
+          "listed_count": 20,
+          "media_count": 1162,
+          "tweet_count": 18384
+        },
+        "url": "https://t.co/pjgtS8AZ2t",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

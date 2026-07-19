@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2074149825453719782",
+    "created_at": "2026-07-06T17:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074185558688145571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816764930219212802",
+          "start": 0,
+          "username": "xFurina_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074185558688145571",
+    "in_reply_to_user_id": "1816764930219212802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074183512572461344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xFurina_ 没事 等我月底成年应该就能随便开惹 \n我这小地方周围就两个网点 去的区支行应该算周围最大的了 (另外一个网点似乎完全没法办理 不过因为这事似乎给行里人留了不好的印象 不知道以后会不会找我麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2074149825453719782",
+        "created_at": "2026-07-06T17:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074185558688145571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816764930219212802",
+              "start": 0,
+              "username": "xFurina_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074185558688145571",
+        "in_reply_to_user_id": "1816764930219212802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074183512572461344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xFurina_ 没事 等我月底成年应该就能随便开惹 \n我这小地方周围就两个网点 去的区支行应该算周围最大的了 (另外一个网点似乎完全没法办理 不过因为这事似乎给行里人留了不好的印象 不知道以后会不会找我麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816764930219212802",
+        "conversation_id": "2074149825453719782",
+        "created_at": "2026-07-06T17:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074183512572461344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074183512572461344",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074175263030862159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 换网点小宝 有些网点确实卡的严 我这边是带了我本人身份证和户口本啥都没问就办了 新开的网点一般都会送一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 289,
+          "like_count": 6515,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-26T09:18:14.000Z",
+        "description": "10 后 mtf｜ 同类来和我互fo啦～\n爱每一个友好的宝宝！立志成为一只萌妹！\n最爱我的姐姐：@Kuriyona \ntelegram:xFurina1013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "Kuriyona"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "candyrect.com",
+                "end": 23,
+                "expanded_url": "http://candyrect.com",
+                "start": 0,
+                "url": "https://t.co/YZnQ6u9X6x"
+              }
+            ]
+          }
+        },
+        "id": "1816764930219212802",
+        "location": "Shanghai Pudong New Area",
+        "name": "鱼块糯🏳️‍⚧️",
+        "pinned_tweet_id": "2072654206415290516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069474210993590272/1zRt2NW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 411,
+          "like_count": 1251,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/YZnQ6u9X6x",
+        "username": "xFurina_",
+        "verified": true
+      }
+    ]
+  }
+}

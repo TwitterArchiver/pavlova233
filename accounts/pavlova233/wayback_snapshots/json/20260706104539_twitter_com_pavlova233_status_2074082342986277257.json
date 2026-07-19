@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2074078143821066682",
+    "created_at": "2026-07-06T10:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074082342986277257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934766733237342209",
+          "start": 0,
+          "username": "Adrawta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074082342986277257",
+    "in_reply_to_user_id": "1934766733237342209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074080593286242405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adrawta 我记得原作者没打包单纯做模块来着 另外原版漫游已经停更好久了怎么还能翻出来鞭尸的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2074078143821066682",
+        "created_at": "2026-07-06T10:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074082342986277257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934766733237342209",
+              "start": 0,
+              "username": "Adrawta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074082342986277257",
+        "in_reply_to_user_id": "1934766733237342209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074080593286242405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adrawta 我记得原作者没打包单纯做模块来着 另外原版漫游已经停更好久了怎么还能翻出来鞭尸的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934766733237342209",
+        "conversation_id": "2074078143821066682",
+        "created_at": "2026-07-06T10:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074080593286242405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074080593286242405",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074078143821066682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 就喜歡砂第三方😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 288,
+          "like_count": 6397,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "technerd · speculator · dreamer/觀點大概是在玩抽象👀/dm open~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/z6v8G0CcWj"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "location": "Anywhere",
+        "name": "raw_data;🌙",
+        "pinned_tweet_id": "2070824856535327067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071889495113297920/uRulgZ4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 103,
+          "like_count": 2614,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/z6v8G0CcWj",
+        "username": "Adrawta",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2076259299458744813",
+    "created_at": "2026-07-12T11:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076265914803368284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076265914803368284",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076259299458744813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 我也是 直到上个月才下个 Agent 在电脑上玩 \n用之前根本想不到功能会有多强大 结果除了帮我这个几乎没有任何基础知识的人做点简单项目以外也给我减少了很多工作量 (提交代码 / 环境配置之类的) 现在已经离不开了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2076259299458744813",
+        "created_at": "2026-07-12T11:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076265914803368284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076265914803368284",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076259299458744813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 我也是 直到上个月才下个 Agent 在电脑上玩 \n用之前根本想不到功能会有多强大 结果除了帮我这个几乎没有任何基础知识的人做点简单项目以外也给我减少了很多工作量 (提交代码 / 环境配置之类的) 现在已经离不开了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "965583779380129792",
+        "conversation_id": "2076259299458744813",
+        "created_at": "2026-07-12T10:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076259299458744813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076259299458744813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘛，以前看codex这个名字总以为是只能写代码的，所以从来都没尝试用过\n\n上个月要干些活开了一个月claude，然后顺带尝试了一下claude code，才发现就算不写代码，做文书工作也是非常好用，文档写作修改呀，数据绘图呀，下载东西什么的，反正只用电脑就能做的基本都能做\n\n缺少信息来源的老年人是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 309,
+          "like_count": 7732,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 蓝标陌生人送的我是真人没收益😘 | 可爱猫猫💕：@Ayanami_rin0 & @A1oneSKy & @Fishy_Fox_Can",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Ayanami_rin0"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "A1oneSKy"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Fishy_Fox_Can"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8AZ2t"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3953,
+          "following_count": 281,
+          "like_count": 55675,
+          "listed_count": 20,
+          "media_count": 1171,
+          "tweet_count": 18461
+        },
+        "url": "https://t.co/pjgtS8AZ2t",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

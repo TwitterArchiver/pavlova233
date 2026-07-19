@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2074750782201901074",
+    "created_at": "2026-07-08T09:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074791439683424598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074791439683424598",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074750782201901074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ 原来可以这样，但感觉和网点也有关系。😭\n之前拉上家长一起去就被要求交各种各样材料，后面因为材料的问题还让提供收入来源及证明。如果我之前坚持自己去并且说工资卡也许我也能开两张？(即便最后说要投诉也只能开出张万事达做一类卡 二类必须成年再开)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2074750767853195264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr-1LNb0AAjvu9.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2074750782201901074",
+        "created_at": "2026-07-08T09:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074791439683424598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074791439683424598",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074750782201901074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ 原来可以这样，但感觉和网点也有关系。😭\n之前拉上家长一起去就被要求交各种各样材料，后面因为材料的问题还让提供收入来源及证明。如果我之前坚持自己去并且说工资卡也许我也能开两张？(即便最后说要投诉也只能开出张万事达做一类卡 二类必须成年再开)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074750767853195264"
+          ]
+        },
+        "author_id": "1818257539886460928",
+        "conversation_id": "2074750782201901074",
+        "created_at": "2026-07-08T07:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074750782201901074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jaq2jOa6TB",
+              "end": 67,
+              "expanded_url": "https://x.com/qqqqqf_/status/2074750782201901074/photo/1",
+              "media_key": "3_2074750767853195264",
+              "start": 44,
+              "url": "https://t.co/jaq2jOa6TB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074750782201901074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1421,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉招商对 满16未满18 还挺友好的\n都没查流水合同社保什么的，说了句工资卡就给过了 https://t.co/jaq2jOa6TB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 295,
+          "like_count": 6899,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "building https://t.co/Q5DJkrjOuI  / https://t.co/Z8CwRk435m\n博客:https://t.co/YPfuXnEcRK  \nArkloop的TelegramGroup :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Arkloop.io",
+                "end": 32,
+                "expanded_url": "http://Arkloop.io",
+                "start": 9,
+                "url": "https://t.co/Q5DJkrjOuI"
+              },
+              {
+                "display_url": "Memoh.ai",
+                "end": 59,
+                "expanded_url": "http://Memoh.ai",
+                "start": 36,
+                "url": "https://t.co/Z8CwRk435m"
+              },
+              {
+                "display_url": "清凤.fun",
+                "end": 86,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 63,
+                "url": "https://t.co/YPfuXnEcRK"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 135,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 112,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "location": "Ningbo,Zhejiang",
+        "name": "清凤",
+        "pinned_tweet_id": "2049776170246471804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 901,
+          "like_count": 18533,
+          "listed_count": 5,
+          "media_count": 317,
+          "tweet_count": 1453
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": true
+      }
+    ]
+  }
+}

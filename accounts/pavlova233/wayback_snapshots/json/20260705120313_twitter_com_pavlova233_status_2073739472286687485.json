@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2073733252704305614",
+    "created_at": "2026-07-05T12:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073739472286687485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934766733237342209",
+          "start": 0,
+          "username": "Adrawta"
+        },
+        {
+          "end": 18,
+          "id": "1732724006787420160",
+          "start": 9,
+          "username": "Venti718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073739472286687485",
+    "in_reply_to_user_id": "1934766733237342209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073738427686871423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adrawta @Venti718 xm第一个十连出四 (这游戏自推吃井在我这是家常便饭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2073738287500681216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdl_D-a4AAkIlY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2073733252704305614",
+        "created_at": "2026-07-05T12:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073739472286687485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934766733237342209",
+              "start": 0,
+              "username": "Adrawta"
+            },
+            {
+              "end": 18,
+              "id": "1732724006787420160",
+              "start": 9,
+              "username": "Venti718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073739472286687485",
+        "in_reply_to_user_id": "1934766733237342209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073738427686871423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adrawta @Venti718 xm第一个十连出四 (这游戏自推吃井在我这是家常便饭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073738287500681216"
+          ]
+        },
+        "author_id": "1934766733237342209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073733252704305614",
+        "created_at": "2026-07-05T11:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073738427686871423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732724006787420160",
+              "start": 0,
+              "username": "Venti718"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tIPdhlKvt4",
+              "end": 46,
+              "expanded_url": "https://x.com/Adrawta/status/2073738427686871423/photo/1",
+              "media_key": "3_2073738287500681216",
+              "start": 23,
+              "url": "https://t.co/tIPdhlKvt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073738427686871423",
+        "in_reply_to_user_id": "1732724006787420160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073733252704305614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Venti718 近期只有一次包含4🌟\n😭 https://t.co/tIPdhlKvt4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 283,
+          "like_count": 6243,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 344
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "technerd · speculator · dreamer/觀點大概是在玩抽象👀/dm open~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/z6v8G0CcWj"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "location": "Anywhere",
+        "name": "raw_data;🌙",
+        "pinned_tweet_id": "2070824856535327067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071889495113297920/uRulgZ4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 101,
+          "like_count": 2473,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/z6v8G0CcWj",
+        "username": "Adrawta",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "准高三/友跨/简中/繁中/English/欢迎互fo/Ciallo～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.akiyamamio.one",
+                "end": 23,
+                "expanded_url": "http://blog.akiyamamio.one",
+                "start": 0,
+                "url": "https://t.co/iAPAG2H15q"
+              }
+            ]
+          }
+        },
+        "id": "1732724006787420160",
+        "location": "Tianjin",
+        "name": "澪老师不是零老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 2425,
+          "like_count": 22890,
+          "listed_count": 0,
+          "media_count": 515,
+          "tweet_count": 7353
+        },
+        "url": "https://t.co/iAPAG2H15q",
+        "username": "Venti718",
+        "verified": false
+      }
+    ]
+  }
+}

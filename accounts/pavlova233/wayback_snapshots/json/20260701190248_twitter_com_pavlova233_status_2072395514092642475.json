@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2072247654432817353",
+    "created_at": "2026-07-01T19:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T20:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072395514092642475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1242074475400548352",
+          "start": 0,
+          "username": "A1oneSKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072395514092642475",
+    "in_reply_to_user_id": "1242074475400548352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072247654432817353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1oneSKy 我可以吗 ("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2072247654432817353",
+        "created_at": "2026-07-01T19:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072395514092642475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1242074475400548352",
+              "start": 0,
+              "username": "A1oneSKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072395514092642475",
+        "in_reply_to_user_id": "1242074475400548352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072247654432817353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1oneSKy 我可以吗 ("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242074475400548352",
+        "conversation_id": "2072247654432817353",
+        "created_at": "2026-07-01T09:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:53:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072242202210967651",
+          "2072247654432817353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072247654432817353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2609,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "准备做一件好玩的事情！\n仅限今晚报名！\n明天早上去沙滩写名字！\n评论报名哦\n🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nekro.top",
+                "end": 23,
+                "expanded_url": "https://www.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/INXz8Am8Dg"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 264,
+          "like_count": 5605,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/INXz8Am8Dg",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "EN / CN / JP / KR/ 韓國語 계정@alonesky_kr ㅣ 韓国留學中...ㅣ\n專攻은 電子工學 | 宝宝@mario_2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "alonesky_kr"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.moe",
+                "end": 23,
+                "expanded_url": "https://alonesky.moe",
+                "start": 0,
+                "url": "https://t.co/b8Rzwcvm1z"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061452830142283776/kIazC4sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 1724,
+          "like_count": 8244,
+          "listed_count": 6,
+          "media_count": 5752,
+          "tweet_count": 23644
+        },
+        "url": "https://t.co/b8Rzwcvm1z",
+        "username": "A1oneSKy",
+        "verified": true
+      }
+    ]
+  }
+}

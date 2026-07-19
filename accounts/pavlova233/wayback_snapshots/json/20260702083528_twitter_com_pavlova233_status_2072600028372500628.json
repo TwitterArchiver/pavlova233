@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2072585082439868517",
+    "created_at": "2026-07-02T08:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072600028372500628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1948779210937683968",
+          "start": 0,
+          "username": "NoirQuac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072600028372500628",
+    "in_reply_to_user_id": "1948779210937683968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072585082439868517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoirQuac 生日快乐w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2072585082439868517",
+        "created_at": "2026-07-02T08:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072600028372500628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1948779210937683968",
+              "start": 0,
+              "username": "NoirQuac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072600028372500628",
+        "in_reply_to_user_id": "1948779210937683968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072585082439868517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoirQuac 生日快乐w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948779210937683968",
+        "conversation_id": "2072585082439868517",
+        "created_at": "2026-07-02T07:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072585082439868517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072585082439868517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很平静的在今天成年了，好像没什么特殊的呢。只是把很多年前退游的游戏给下回来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "学会接受自己的平庸 | 请看置顶 | 商务联系: i@nekro.top",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nekro.top",
+                "end": 23,
+                "expanded_url": "https://www.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/INXz8Am8Dg"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 270,
+          "like_count": 5675,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/INXz8Am8Dg",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-25T16:16:41.000Z",
+        "description": "主要爱好maimai和一些移动端音游，🉑扩列喵，无🍬mtx，可以互fo，有点轻度沟通障碍，纯良，高三ing",
+        "id": "1948779210937683968",
+        "location": " ",
+        "name": "相合伞🍀🍥",
+        "pinned_tweet_id": "2070422422113923427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117505972457472/oZ0d8kQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 231,
+          "like_count": 1353,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "NoirQuac",
+        "verified": false
+      }
+    ]
+  }
+}
