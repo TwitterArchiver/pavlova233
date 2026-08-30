@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089598926211125248"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "conversation_id": "2089565466109059276",
+    "created_at": "2026-08-18T06:23:02.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089598929419784368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934766733237342209",
+          "start": 0,
+          "username": "Adrawta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8xXL7Y7vUg",
+          "end": 42,
+          "expanded_url": "https://x.com/pavlova233/status/2089598929419784368/photo/1",
+          "media_key": "3_2089598926211125248",
+          "start": 19,
+          "url": "https://t.co/8xXL7Y7vUg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089598929419784368",
+    "in_reply_to_user_id": "1934766733237342209",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089598926211125248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089573265702576135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adrawta 其实我一直都是 🤓 https://t.co/8xXL7Y7vUg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2251,
+        "media_key": "3_2089598926211125248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-_JvfaEAAni_t.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089598926211125248"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "conversation_id": "2089565466109059276",
+        "created_at": "2026-08-18T06:23:02.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089598929419784368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934766733237342209",
+              "start": 0,
+              "username": "Adrawta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xXL7Y7vUg",
+              "end": 42,
+              "expanded_url": "https://x.com/pavlova233/status/2089598929419784368/photo/1",
+              "media_key": "3_2089598926211125248",
+              "start": 19,
+              "url": "https://t.co/8xXL7Y7vUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089598929419784368",
+        "in_reply_to_user_id": "1934766733237342209",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089598926211125248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089573265702576135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adrawta 其实我一直都是 🤓 https://t.co/8xXL7Y7vUg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934766733237342209",
+        "conversation_id": "2089565466109059276",
+        "created_at": "2026-08-18T04:41:03.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089573265702576135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089573265702576135",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089565466109059276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 已進入半安卓半蘋果的陣營(?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「この夏の物语は、終わらない」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2089598929419784368",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 317,
+          "like_count": 12676,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "technerd · speculator · dreamer/個人觀點無意味👀/dm open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/z6v8G0BF6L"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "is_identity_verified": false,
+        "location": "inside QEMU",
+        "most_recent_tweet_id": "2089573581126840615",
+        "name": "raw_data💫",
+        "pinned_tweet_id": "2070824856535327067",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934766733237342209/1783393111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083132879186595840/DHBVlY0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 155,
+          "like_count": 7745,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2268
+        },
+        "url": "https://t.co/z6v8G0BF6L",
+        "username": "Adrawta",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

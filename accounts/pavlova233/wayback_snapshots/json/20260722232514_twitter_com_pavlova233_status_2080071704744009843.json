@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2079598690042626528",
+    "created_at": "2026-07-22T23:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080071704744009843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2079402575661785089",
+          "start": 0,
+          "username": "LSSF2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080071704744009843",
+    "in_reply_to_user_id": "2079402575661785089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079766507580752079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LSSF2009 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-22T23:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080071704744009843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2079402575661785089",
+              "start": 0,
+              "username": "LSSF2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080071704744009843",
+        "in_reply_to_user_id": "2079402575661785089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079766507580752079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LSSF2009 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079402575661785089",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-22T03:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079766507580752079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079766507580752079",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079598690042626528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 生日快乐！(&gt;﹏&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 314,
+          "like_count": 9666,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-21T03:09:07.000Z",
+        "description": "こんにちは！中国の高校生です。17歳。日本語を勉強しています。\nゲームが大好きで、Delta Force、Victoria 3、NARUTOのアプリをよくプレイしてます。\nアニメはNARUTOが一番好き！かわいい猫も飼ってます🐱\n日本語で仲良くお話ししたいです！よろしくお願いします。",
+        "id": "2079402575661785089",
+        "name": "Luo",
+        "pinned_tweet_id": "2079506645961564338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079423182080278528/wZVReGrv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "LSSF2009",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2079598690042626528",
+    "created_at": "2026-07-21T18:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079641544873873501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1292644921095192577",
+          "start": 0,
+          "username": "Jam_esLiu4393"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079641544873873501",
+    "in_reply_to_user_id": "1292644921095192577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079604859142385814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jam_esLiu4393 嗯嗯 😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-21T18:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079641544873873501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1292644921095192577",
+              "start": 0,
+              "username": "Jam_esLiu4393"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079641544873873501",
+        "in_reply_to_user_id": "1292644921095192577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079604859142385814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jam_esLiu4393 嗯嗯 😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292644921095192577",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-21T16:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079604859142385814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079604859142385814",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079598690042626528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 304,
+          "like_count": 9440,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-10T02:12:32.000Z",
+        "description": "可用https://t.co/mCanTSNSCn联系我\n来玩玩吧https://t.co/EL3Te5f8LC\n不管各位的世界有没有昼夜的概念，总之祝你早上中午晚上好~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/misaka10367",
+                "end": 25,
+                "expanded_url": "http://t.me/misaka10367",
+                "start": 2,
+                "url": "https://t.co/mCanTSNSCn"
+              },
+              {
+                "display_url": "ngl.link/laimc2",
+                "end": 56,
+                "expanded_url": "https://ngl.link/laimc2",
+                "start": 33,
+                "url": "https://t.co/EL3Te5f8LC"
+              }
+            ]
+          }
+        },
+        "id": "1292644921095192577",
+        "name": "葉山",
+        "pinned_tweet_id": "2011067590966493584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074907776770306048/qSa5GfWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 659,
+          "like_count": 20683,
+          "listed_count": 0,
+          "media_count": 507,
+          "tweet_count": 3041
+        },
+        "url": "",
+        "username": "Jam_esLiu4393",
+        "verified": false
+      }
+    ]
+  }
+}

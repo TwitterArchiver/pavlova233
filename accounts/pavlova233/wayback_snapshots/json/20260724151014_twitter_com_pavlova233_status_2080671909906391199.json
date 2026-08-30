@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080671907196915712"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "conversation_id": "2080671909906391199",
+    "created_at": "2026-07-24T15:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080671909906391199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "一加手机官方论坛。一加手机开箱体验、测评报告、玩机技巧、手游攻略。与你分享美图及摄影技巧,众多大神教你轻松刷机,并由丰富手机资源任由下载。百万加油大家庭,交流更随心,一加社区官方论坛",
+          "display_url": "bbs.oneplus.com/thread/2175833…",
+          "end": 86,
+          "expanded_url": "https://bbs.oneplus.com/thread/2175833961601695750",
+          "images": [
+            {
+              "height": 750,
+              "url": "https://pbs.twimg.com/news_img/2080539894057934848/x5QqZmot?format=png&name=orig",
+              "width": 750
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2080539894057934848/x5QqZmot?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 63,
+          "status": 200,
+          "title": "一加社区",
+          "unwound_url": "https://bbs.oneplus.com/thread/2175833961601695750",
+          "url": "https://t.co/jyfrFjshOz"
+        },
+        {
+          "display_url": "pic.x.com/gUQ2fb9J8e",
+          "end": 110,
+          "expanded_url": "https://x.com/pavlova233/status/2080671909906391199/photo/1",
+          "media_key": "3_2080671907196915712",
+          "start": 87,
+          "url": "https://t.co/gUQ2fb9J8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080671909906391199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "令人感叹。\n一加再次收紧了 BL 解锁政策，已支持深度测试的设备将于 9 月优先采用。需要实名、人脸认证等方可加入深度测试。\nhttps://t.co/jyfrFjshOz https://t.co/gUQ2fb9J8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080671907196915712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAIE2KbUAA67A8.jpg",
+        "width": 356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080671907196915712"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "conversation_id": "2080671909906391199",
+        "created_at": "2026-07-24T15:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080671909906391199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一加手机官方论坛。一加手机开箱体验、测评报告、玩机技巧、手游攻略。与你分享美图及摄影技巧,众多大神教你轻松刷机,并由丰富手机资源任由下载。百万加油大家庭,交流更随心,一加社区官方论坛",
+              "display_url": "bbs.oneplus.com/thread/2175833…",
+              "end": 86,
+              "expanded_url": "https://bbs.oneplus.com/thread/2175833961601695750",
+              "images": [
+                {
+                  "height": 750,
+                  "url": "https://pbs.twimg.com/news_img/2080539894057934848/x5QqZmot?format=png&name=orig",
+                  "width": 750
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080539894057934848/x5QqZmot?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "一加社区",
+              "unwound_url": "https://bbs.oneplus.com/thread/2175833961601695750",
+              "url": "https://t.co/jyfrFjshOz"
+            },
+            {
+              "display_url": "pic.x.com/gUQ2fb9J8e",
+              "end": 110,
+              "expanded_url": "https://x.com/pavlova233/status/2080671909906391199/photo/1",
+              "media_key": "3_2080671907196915712",
+              "start": 87,
+              "url": "https://t.co/gUQ2fb9J8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080671909906391199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "令人感叹。\n一加再次收紧了 BL 解锁政策，已支持深度测试的设备将于 9 月优先采用。需要实名、人脸认证等方可加入深度测试。\nhttps://t.co/jyfrFjshOz https://t.co/gUQ2fb9J8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 319,
+          "like_count": 9936,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      }
+    ]
+  }
+}

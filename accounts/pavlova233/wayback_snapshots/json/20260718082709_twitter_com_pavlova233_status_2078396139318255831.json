@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2078247553636704613",
+    "created_at": "2026-07-18T08:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078396139318255831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078396139318255831",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078247553636704613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 抱抱，我最近也遇到好多不如意的事情。高考考砸几乎没学校可报，出来估计就进厂一条路；自己少数能用的设备也出了大问题，然而自己没钱不一定能修好；家里经济情况更是一天不如一天...... \n但生活总得往前看的，也许只是时候未到呢，能活下去一切都还有转机，我不想看到再有朋友离开了。🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2078247553636704613",
+        "created_at": "2026-07-18T08:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078396139318255831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078396139318255831",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078247553636704613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 抱抱，我最近也遇到好多不如意的事情。高考考砸几乎没学校可报，出来估计就进厂一条路；自己少数能用的设备也出了大问题，然而自己没钱不一定能修好；家里经济情况更是一天不如一天...... \n但生活总得往前看的，也许只是时候未到呢，能活下去一切都还有转机，我不想看到再有朋友离开了。🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "965583779380129792",
+        "conversation_id": "2078247553636704613",
+        "created_at": "2026-07-17T22:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078247553636704613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078247553636704613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1706,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有钱，也没有工作，最近半年多生活里没有一点事是顺利的，运气用尽了的感觉\n\n我是不是之前几年顺利的时候发过什么誓言透支未来的运气啊，能走到这里确实很厉害了（笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/nvV9bmQA1v"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 294,
+          "like_count": 8735,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/nvV9bmQA1v",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 蓝标陌生人送的我是真人没收益😘 | 可爱猫猫💕：@Ayanami_rin0 & @A1oneSKy & @Fishy_Fox_Can",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Ayanami_rin0"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "A1oneSKy"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Fishy_Fox_Can"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://telegram.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/P0unqfEJ1Z"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3968,
+          "following_count": 281,
+          "like_count": 56492,
+          "listed_count": 20,
+          "media_count": 1184,
+          "tweet_count": 18734
+        },
+        "url": "https://t.co/P0unqfEJ1Z",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

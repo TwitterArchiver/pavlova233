@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2091134570179809324",
+    "created_at": "2026-08-22T14:45:05.000Z",
+    "display_text_range": [
+      25,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091174828493684922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552213521253150720",
+          "start": 0,
+          "username": "acnekot"
+        },
+        {
+          "end": 24,
+          "id": "1669586639130361856",
+          "start": 9,
+          "username": "mc_xiaomi33396"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091174828493684922",
+    "in_reply_to_user_id": "1552213521253150720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091171396680622436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acnekot @mc_xiaomi33396 🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2091134570179809324",
+        "created_at": "2026-08-22T14:45:05.000Z",
+        "display_text_range": [
+          25,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091174828493684922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 24,
+              "id": "1669586639130361856",
+              "start": 9,
+              "username": "mc_xiaomi33396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091174828493684922",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091171396680622436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @mc_xiaomi33396 🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2091134570179809324",
+        "created_at": "2026-08-22T14:31:27.000Z",
+        "display_text_range": [
+          28,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091171396680622436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            },
+            {
+              "end": 27,
+              "id": "1669586639130361856",
+              "start": 12,
+              "username": "mc_xiaomi33396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091171396680622436",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091142811387363378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 @mc_xiaomi33396 可以通过假切地区的脚本实现听其他地方的曲库"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「この夏の物语は、終わらない」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2091174828493684922",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 319,
+          "like_count": 13274,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091171396680622436",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2638,
+          "following_count": 818,
+          "like_count": 96538,
+          "listed_count": 9,
+          "media_count": 4134,
+          "tweet_count": 17424
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T06:04:21.000Z",
+        "description": "",
+        "id": "1669586639130361856",
+        "is_identity_verified": true,
+        "location": "OM88ru",
+        "most_recent_tweet_id": "2091142044630896712",
+        "name": "BI3AZE",
+        "pinned_tweet_id": "2086113877885059450",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070675574004355072/ZmpPqxk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 142,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "mc_xiaomi33396",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

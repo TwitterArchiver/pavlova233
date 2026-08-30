@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2084673422370762753",
+    "created_at": "2026-08-04T16:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084673422370762753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Reserve your Cloudflare Wallet name",
+          "display_url": "pavlova.cloudflare.pay",
+          "end": 65,
+          "expanded_url": "http://pavlova.cloudflare.pay",
+          "start": 42,
+          "status": 200,
+          "title": "Cloudflare Wallet",
+          "unwound_url": "https://cloudflare.pay/",
+          "url": "https://t.co/OsbVDeTLgK"
+        },
+        {
+          "description": "Reserve your Cloudflare Wallet name",
+          "display_url": "cloudflare.pay",
+          "end": 112,
+          "expanded_url": "http://cloudflare.pay",
+          "start": 89,
+          "status": 200,
+          "title": "Cloudflare Wallet",
+          "unwound_url": "http://cloudflare.pay",
+          "url": "https://t.co/kD4CjjRfDR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084673422370762753",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I just reserved my Cloudflare Wallet tag: https://t.co/OsbVDeTLgK.\n\nReserve yours now at https://t.co/kD4CjjRfDR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2084673422370762753",
+        "created_at": "2026-08-04T16:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084673422370762753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Reserve your Cloudflare Wallet name",
+              "display_url": "pavlova.cloudflare.pay",
+              "end": 65,
+              "expanded_url": "http://pavlova.cloudflare.pay",
+              "start": 42,
+              "status": 200,
+              "title": "Cloudflare Wallet",
+              "unwound_url": "https://cloudflare.pay/",
+              "url": "https://t.co/OsbVDeTLgK"
+            },
+            {
+              "description": "Reserve your Cloudflare Wallet name",
+              "display_url": "cloudflare.pay",
+              "end": 112,
+              "expanded_url": "http://cloudflare.pay",
+              "start": 89,
+              "status": 200,
+              "title": "Cloudflare Wallet",
+              "unwound_url": "http://cloudflare.pay",
+              "url": "https://t.co/kD4CjjRfDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084673422370762753",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I just reserved my Cloudflare Wallet tag: https://t.co/OsbVDeTLgK.\n\nReserve yours now at https://t.co/kD4CjjRfDR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova☘️",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 319,
+          "like_count": 11238,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 515
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true
+      }
+    ]
+  }
+}

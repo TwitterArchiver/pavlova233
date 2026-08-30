@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082369098470789120"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082370348100821107",
+    "created_at": "2026-07-29T07:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082370348100821107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w6fRPOVjoM",
+          "end": 50,
+          "expanded_url": "https://x.com/pavlova233/status/2082370348100821107/photo/1",
+          "media_key": "3_2082369098470789120",
+          "start": 27,
+          "url": "https://t.co/w6fRPOVjoM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082370348100821107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "摆了 (Arch 好像有驱动问题只好安 Fedora https://t.co/w6fRPOVjoM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2082369098470789120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYPqYWaEAAg50m.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082369098470789120"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082370348100821107",
+        "created_at": "2026-07-29T07:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082370348100821107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6fRPOVjoM",
+              "end": 50,
+              "expanded_url": "https://x.com/pavlova233/status/2082370348100821107/photo/1",
+              "media_key": "3_2082369098470789120",
+              "start": 27,
+              "url": "https://t.co/w6fRPOVjoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082370348100821107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摆了 (Arch 好像有驱动问题只好安 Fedora https://t.co/w6fRPOVjoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 319,
+          "like_count": 10445,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      }
+    ]
+  }
+}

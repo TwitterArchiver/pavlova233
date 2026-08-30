@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2084914380710502869",
+    "created_at": "2026-08-05T09:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084934386160664647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1599803203322798081",
+          "start": 0,
+          "username": "sticktech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084934386160664647",
+    "in_reply_to_user_id": "1599803203322798081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084914380710502869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sticktech 你是?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 208,
+        "media_key": "3_2084914304458072064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8ag3haoAAuJ37.png",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2084914380710502869",
+        "created_at": "2026-08-05T09:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084934386160664647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1599803203322798081",
+              "start": 0,
+              "username": "sticktech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084934386160664647",
+        "in_reply_to_user_id": "1599803203322798081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084914380710502869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sticktech 你是?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084914304458072064"
+          ]
+        },
+        "author_id": "1599803203322798081",
+        "conversation_id": "2084914380710502869",
+        "created_at": "2026-08-05T08:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084914380710502869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pM7XzRaUj",
+              "end": 29,
+              "expanded_url": "https://x.com/sticktech/status/2084914380710502869/photo/1",
+              "media_key": "3_2084914304458072064",
+              "start": 6,
+              "url": "https://t.co/0pM7XzRaUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084914380710502869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1795,
+          "like_count": 92,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "新人UP喵 https://t.co/0pM7XzRaUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova☘️",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 318,
+          "like_count": 11295,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-05T16:29:52.000Z",
+        "description": "一个喜欢敲代码和摄影的学牲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ADT_China",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@ADT_China",
+                "start": 0,
+                "url": "https://t.co/1jNjLrkYxZ"
+              }
+            ]
+          }
+        },
+        "id": "1599803203322798081",
+        "location": "杭州",
+        "name": "粘连科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924643051974074368/6Jhv7IOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2956,
+          "following_count": 2599,
+          "like_count": 761,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/1jNjLrkYxZ",
+        "username": "sticktech",
+        "verified": false
+      }
+    ]
+  }
+}

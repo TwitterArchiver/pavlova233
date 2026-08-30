@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088296890475700224",
+        "3_2088296893042601984",
+        "3_2088296901905121280",
+        "3_2088296909299724288"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "conversation_id": "2088297457742749895",
+    "created_at": "2026-08-14T16:11:27.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088297457742749895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/InBc9bIUHp",
+          "end": 77,
+          "expanded_url": "https://x.com/pavlova233/status/2088297457742749895/photo/1",
+          "media_key": "3_2088296890475700224",
+          "start": 54,
+          "url": "https://t.co/InBc9bIUHp"
+        },
+        {
+          "display_url": "pic.x.com/InBc9bIUHp",
+          "end": 77,
+          "expanded_url": "https://x.com/pavlova233/status/2088297457742749895/photo/1",
+          "media_key": "3_2088296893042601984",
+          "start": 54,
+          "url": "https://t.co/InBc9bIUHp"
+        },
+        {
+          "display_url": "pic.x.com/InBc9bIUHp",
+          "end": 77,
+          "expanded_url": "https://x.com/pavlova233/status/2088297457742749895/photo/1",
+          "media_key": "3_2088296901905121280",
+          "start": 54,
+          "url": "https://t.co/InBc9bIUHp"
+        },
+        {
+          "display_url": "pic.x.com/InBc9bIUHp",
+          "end": 77,
+          "expanded_url": "https://x.com/pavlova233/status/2088297457742749895/photo/1",
+          "media_key": "3_2088296909299724288",
+          "start": 54,
+          "url": "https://t.co/InBc9bIUHp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088297457742749895",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088296890475700224"
+      },
+      {
+        "media_key": "3_2088296893042601984"
+      },
+      {
+        "media_key": "3_2088296901905121280"
+      },
+      {
+        "media_key": "3_2088296909299724288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "eSIM 初尝试 (似乎还不错?\nESTKme C (70 HKD) + ClubSim (53 HKD) https://t.co/InBc9bIUHp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2088296890475700224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPse9SZbYAAd6Nn.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2088296893042601984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPse9b9bMAAlJCs.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088296901905121280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPse98-agAAiEIO.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088296909299724288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPse-YhbMAAkJn_.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088296890475700224",
+            "3_2088296893042601984",
+            "3_2088296901905121280",
+            "3_2088296909299724288"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "conversation_id": "2088297457742749895",
+        "created_at": "2026-08-14T16:11:27.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088297457742749895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/InBc9bIUHp",
+              "end": 77,
+              "expanded_url": "https://x.com/pavlova233/status/2088297457742749895/photo/1",
+              "media_key": "3_2088296890475700224",
+              "start": 54,
+              "url": "https://t.co/InBc9bIUHp"
+            },
+            {
+              "display_url": "pic.x.com/InBc9bIUHp",
+              "end": 77,
+              "expanded_url": "https://x.com/pavlova233/status/2088297457742749895/photo/1",
+              "media_key": "3_2088296893042601984",
+              "start": 54,
+              "url": "https://t.co/InBc9bIUHp"
+            },
+            {
+              "display_url": "pic.x.com/InBc9bIUHp",
+              "end": 77,
+              "expanded_url": "https://x.com/pavlova233/status/2088297457742749895/photo/1",
+              "media_key": "3_2088296901905121280",
+              "start": 54,
+              "url": "https://t.co/InBc9bIUHp"
+            },
+            {
+              "display_url": "pic.x.com/InBc9bIUHp",
+              "end": 77,
+              "expanded_url": "https://x.com/pavlova233/status/2088297457742749895/photo/1",
+              "media_key": "3_2088296909299724288",
+              "start": 54,
+              "url": "https://t.co/InBc9bIUHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088297457742749895",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088296890475700224"
+          },
+          {
+            "media_key": "3_2088296893042601984"
+          },
+          {
+            "media_key": "3_2088296901905121280"
+          },
+          {
+            "media_key": "3_2088296909299724288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "eSIM 初尝试 (似乎还不错?\nESTKme C (70 HKD) + ClubSim (53 HKD) https://t.co/InBc9bIUHp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2088297457742749895",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1785586210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 319,
+          "like_count": 12274,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

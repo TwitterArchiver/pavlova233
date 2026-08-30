@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2079598690042626528",
+    "created_at": "2026-07-22T08:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079846235091984524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037394069169586176",
+          "start": 0,
+          "username": "SWD1640327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079846235091984524",
+    "in_reply_to_user_id": "2037394069169586176",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079790695804780819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SWD1640327 Thanks !"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-22T08:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079846235091984524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037394069169586176",
+              "start": 0,
+              "username": "SWD1640327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079846235091984524",
+        "in_reply_to_user_id": "2037394069169586176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079790695804780819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SWD1640327 Thanks !"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037394069169586176",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-22T04:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079790695804780819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079790695804780819",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079598690042626528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 Happy birthday！🤓🤓🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 311,
+          "like_count": 9504,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T04:59:48.000Z",
+        "description": "",
+        "id": "2037394069169586176",
+        "name": "Saturday",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037396018581704704/hvv6HVDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 148,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "SWD1640327",
+        "verified": false
+      }
+    ]
+  }
+}

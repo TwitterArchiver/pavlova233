@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2082073449372201190",
+    "created_at": "2026-07-28T12:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082074071207166304"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082074071207166304",
+    "in_reply_to_user_id": "1676119892230037509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082073449372201190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "orz 最近有点忙可能没法经常回帖 🥲 \n想聊天的话欢迎通过 TG/X Chat 联系我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1739,
+        "media_key": "3_2082073446155206656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUCxJpawAAjMB3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2251,
+        "media_key": "3_2082073446683664384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUCxLnaYAAwrFP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2251,
+        "media_key": "3_2082073446125797376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUCxJiaAAARMV6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2082073449372201190",
+        "created_at": "2026-07-28T12:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082074071207166304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082074071207166304",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082073449372201190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "orz 最近有点忙可能没法经常回帖 🥲 \n想聊天的话欢迎通过 TG/X Chat 联系我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082073446155206656",
+            "3_2082073446683664384",
+            "3_2082073446125797376"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082073449372201190",
+        "created_at": "2026-07-28T11:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082073449372201190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lbydJOXX4",
+              "end": 190,
+              "expanded_url": "https://x.com/pavlova233/status/2082073449372201190/photo/1",
+              "media_key": "3_2082073446155206656",
+              "start": 167,
+              "url": "https://t.co/6lbydJOXX4"
+            },
+            {
+              "display_url": "pic.x.com/6lbydJOXX4",
+              "end": 190,
+              "expanded_url": "https://x.com/pavlova233/status/2082073449372201190/photo/1",
+              "media_key": "3_2082073446683664384",
+              "start": 167,
+              "url": "https://t.co/6lbydJOXX4"
+            },
+            {
+              "display_url": "pic.x.com/6lbydJOXX4",
+              "end": 190,
+              "expanded_url": "https://x.com/pavlova233/status/2082073449372201190/photo/1",
+              "media_key": "3_2082073446125797376",
+              "start": 167,
+              "url": "https://t.co/6lbydJOXX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082073449372201190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "-220 吐槽: 酷态科 CP 模块风扇 Plus &amp; CP 桌面模块风扇 未来可期 \n先是手持风扇，一档声音就和吹风机差不多了。配的 CP 13 电能块也不怎么样，先不说只有一个 C 口，5800mAh 的电池完全不够充手机的。\n桌面风扇，没有内置电池必须外部供电或者接电能块，另外调角度只有上下一点点空间，没法左右摇头。 https://t.co/6lbydJOXX4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 316,
+          "like_count": 10329,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2080289571422793871",
+    "created_at": "2026-07-23T19:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T20:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080375984814182678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1988674513517834244",
+          "start": 0,
+          "username": "mikanmkx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080375984814182678",
+    "in_reply_to_user_id": "1988674513517834244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080289571422793871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikanmkx 考虑一下 Miuix ?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_2080289433077821440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6sN7CaMAA3WBc.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2080289571422793871",
+        "created_at": "2026-07-23T19:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080375984814182678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080375984814182678",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080289571422793871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 考虑一下 Miuix ?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080289433077821440"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2080289571422793871",
+        "created_at": "2026-07-23T13:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080289571422793871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsT6SOLbKX",
+              "end": 57,
+              "expanded_url": "https://x.com/mikanmkx/status/2080289571422793871/photo/1",
+              "media_key": "3_2080289433077821440",
+              "start": 34,
+              "url": "https://t.co/ZsT6SOLbKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080289571422793871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不要把导航栏改成tg一样的浮动导航栏呢，好像谷歌自己也在干这个🤔 https://t.co/ZsT6SOLbKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 317,
+          "like_count": 9768,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 627,
+          "like_count": 3289,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

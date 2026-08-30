@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2079598690042626528",
+    "created_at": "2026-07-22T17:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079980191775174871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1494695387801686018",
+          "start": 0,
+          "username": "AwA04759578"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079980191775174871",
+    "in_reply_to_user_id": "1494695387801686018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079855556211388636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AwA04759578 好耶 😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-22T17:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079980191775174871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1494695387801686018",
+              "start": 0,
+              "username": "AwA04759578"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079980191775174871",
+        "in_reply_to_user_id": "1494695387801686018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079855556211388636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AwA04759578 好耶 😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494695387801686018",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-22T09:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079855556211388636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079855556211388636",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079598690042626528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 生日快乐🥳🥳🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 312,
+          "like_count": 9561,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-18T15:28:56.000Z",
+        "description": "§(*￣▽￣*)§",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amicors.cc",
+                "end": 23,
+                "expanded_url": "https://amicors.cc",
+                "start": 0,
+                "url": "https://t.co/pXIY2AbEMl"
+              }
+            ]
+          }
+        },
+        "id": "1494695387801686018",
+        "location": "京都",
+        "name": "YukuNya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994745785016356868/vzhv2mHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 107,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/pXIY2AbEMl",
+        "username": "AwA04759578",
+        "verified": false
+      }
+    ]
+  }
+}

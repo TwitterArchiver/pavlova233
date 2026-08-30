@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2092183830866358312",
+    "created_at": "2026-08-25T10:18:23.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T11:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092194872409374993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092194872409374993",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092183830866358312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Mashiro_ 怎么不是任何一个要求了 ("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_2092183822498664448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjuGgjaEAALYTq.jpg",
+        "width": 1480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2092183830866358312",
+        "created_at": "2026-08-25T10:18:23.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092194872409374993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092194872409374993",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092183830866358312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Mashiro_ 怎么不是任何一个要求了 ("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092183822498664448"
+          ]
+        },
+        "author_id": "1995146888249778177",
+        "conversation_id": "2092183830866358312",
+        "created_at": "2026-08-25T09:34:30.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092183830866358312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVa60jE59p",
+              "end": 39,
+              "expanded_url": "https://x.com/Rin_Mashiro_/status/2092183830866358312/photo/1",
+              "media_key": "3_2092183822498664448",
+              "start": 16,
+              "url": "https://t.co/pVa60jE59p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092183830866358312",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092183822498664448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "投喂我你将会在我的网站上留名🤓 https://t.co/pVa60jE59p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「この夏の物语は、終わらない」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2092194872409374993",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 323,
+          "like_count": 13864,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女｜处于HRT与非HRT叠加态｜J-POP｜AI｜ACGN｜JP（N2） EN CN｜SillyTavern二开及插件开发者\n个人博客:https://t.co/PVGkqcilif\n匿名提问:https://t.co/520DUeTbF0\nTG:https://t.co/mrZzq3tpLq(24h在线)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 95,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 72,
+                "url": "https://t.co/PVGkqcilif"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 124,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 101,
+                "url": "https://t.co/520DUeTbF0"
+              },
+              {
+                "display_url": "t.me/Rin_Mashiro",
+                "end": 151,
+                "expanded_url": "https://t.me/Rin_Mashiro",
+                "start": 128,
+                "url": "https://t.co/mrZzq3tpLq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqcilif"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2092194480749482448",
+        "name": "Rin",
+        "pinned_tweet_id": "2092183830866358312",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995146888249778177/1782917546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 112,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 2250
+        },
+        "url": "https://t.co/PVGkqcilif",
+        "username": "Rin_Mashiro_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

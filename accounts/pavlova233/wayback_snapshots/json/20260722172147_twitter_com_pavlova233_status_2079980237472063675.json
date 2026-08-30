@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2079598690042626528",
+    "created_at": "2026-07-22T17:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079980237472063675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1164441995298742272",
+          "start": 0,
+          "username": "ligeee0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079980237472063675",
+    "in_reply_to_user_id": "1164441995298742272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079854992115245542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ligeee0 开心喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-22T17:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079980237472063675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164441995298742272",
+              "start": 0,
+              "username": "ligeee0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079980237472063675",
+        "in_reply_to_user_id": "1164441995298742272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079854992115245542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ligeee0 开心喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164441995298742272",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-22T09:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079854992115245542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079854992115245542",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079598690042626528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 生日快乐喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 312,
+          "like_count": 9561,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-22T07:39:50.000Z",
+        "description": "mtx | 无证 | hrt2026.5.12 | 深柜 | 不o不割不键政 | 社恐 | pjsk | 单机 steam: 399821423 ns: SW-6027-9776-6595 | 成分复杂 | 同类互fo",
+        "id": "1164441995298742272",
+        "name": "fexc45",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076710620087623683/KPwC6LEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 564,
+          "like_count": 1696,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "ligeee0",
+        "verified": false
+      }
+    ]
+  }
+}

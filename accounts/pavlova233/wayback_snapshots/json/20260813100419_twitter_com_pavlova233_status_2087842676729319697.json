@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087842668911144960"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "conversation_id": "2087837162742087899",
+    "created_at": "2026-08-13T10:04:19.000Z",
+    "display_text_range": [
+      13,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T11:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087842676729319697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sYy4d5RpRe",
+          "end": 51,
+          "expanded_url": "https://x.com/pavlova233/status/2087842676729319697/photo/1",
+          "media_key": "3_2087842668911144960",
+          "start": 28,
+          "url": "https://t.co/sYy4d5RpRe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087842676729319697",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087842668911144960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087837162742087899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wesley10032 +1 (但我退坑一年多了就是 https://t.co/sYy4d5RpRe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087842668911144960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmB2HNaMAA2s-Z.jpg",
+        "width": 943
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2087837154097745920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl81G7b0AAmW9E.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2087837154122825728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl81HBagAAyuxB.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087842668911144960"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "conversation_id": "2087837162742087899",
+        "created_at": "2026-08-13T10:04:19.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087842676729319697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sYy4d5RpRe",
+              "end": 51,
+              "expanded_url": "https://x.com/pavlova233/status/2087842676729319697/photo/1",
+              "media_key": "3_2087842668911144960",
+              "start": 28,
+              "url": "https://t.co/sYy4d5RpRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087842676729319697",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087842668911144960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087837162742087899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 +1 (但我退坑一年多了就是 https://t.co/sYy4d5RpRe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087837154097745920",
+            "3_2087837154122825728"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2087837162742087899",
+        "created_at": "2026-08-13T09:42:24.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087837162742087899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yjnhzl8RAX",
+              "end": 30,
+              "expanded_url": "https://x.com/Wesley10032/status/2087837162742087899/photo/1",
+              "media_key": "3_2087837154097745920",
+              "start": 7,
+              "url": "https://t.co/Yjnhzl8RAX"
+            },
+            {
+              "display_url": "pic.x.com/Yjnhzl8RAX",
+              "end": 30,
+              "expanded_url": "https://x.com/Wesley10032/status/2087837162742087899/photo/1",
+              "media_key": "3_2087837154122825728",
+              "start": 7,
+              "url": "https://t.co/Yjnhzl8RAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087837162742087899",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087837154097745920"
+          },
+          {
+            "media_key": "3_2087837154122825728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原神你何意味 https://t.co/Yjnhzl8RAX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2087842676729319697",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1785586210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 317,
+          "like_count": 12038,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2087840161715589225",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 1473,
+          "like_count": 15650,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2693
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

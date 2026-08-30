@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2078794739097522439",
+    "created_at": "2026-07-19T11:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078797506897662110"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078797506897662110",
+    "in_reply_to_user_id": "1676119892230037509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078794739097522439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咦编辑帖子后之前点的赞还会叠加哇 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2251,
+        "media_key": "3_2078786677842276353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlVeDiacAEiczN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1739,
+        "media_key": "3_2078786679616471040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlVeKJagAACWgR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1739,
+        "media_key": "3_2078786679331254272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlVeJFacAAk1a5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2078794739097522439",
+        "created_at": "2026-07-19T11:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078797506897662110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078797506897662110",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078794739097522439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咦编辑帖子后之前点的赞还会叠加哇 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078786677842276353",
+            "3_2078786679616471040",
+            "3_2078786679331254272"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078794739097522439",
+        "created_at": "2026-07-19T10:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:19:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078786682560852328",
+          "2078794739097522439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/etByb8TgkR",
+              "end": 118,
+              "expanded_url": "https://x.com/pavlova233/status/2078794739097522439/photo/1",
+              "media_key": "3_2078786677842276353",
+              "start": 95,
+              "url": "https://t.co/etByb8TgkR"
+            },
+            {
+              "display_url": "pic.x.com/etByb8TgkR",
+              "end": 118,
+              "expanded_url": "https://x.com/pavlova233/status/2078794739097522439/photo/1",
+              "media_key": "3_2078786679616471040",
+              "start": 95,
+              "url": "https://t.co/etByb8TgkR"
+            },
+            {
+              "display_url": "pic.x.com/etByb8TgkR",
+              "end": 118,
+              "expanded_url": "https://x.com/pavlova233/status/2078794739097522439/photo/1",
+              "media_key": "3_2078786679331254272",
+              "start": 95,
+              "url": "https://t.co/etByb8TgkR"
+            },
+            {
+              "display_url": "x.com/pavlova233/sta…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/pavlova233/status/2077391541510049986",
+              "start": 119,
+              "url": "https://t.co/6qOSeu2E8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078794739097522439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077391541510049986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忘发了 官修需要 2905 CNY 换主板 (还需要加上 100 块人工费) \n去第三方 120 CNY 看了主板 处理一下发霉什么的 没啥其它大问题干脆放弃维修了 先这样凑合用吧 www https://t.co/etByb8TgkR https://t.co/6qOSeu2E8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/nvV9bmQA1v"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 295,
+          "like_count": 9023,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/nvV9bmQA1v",
+        "username": "pavlova233",
+        "verified": true
+      }
+    ]
+  }
+}

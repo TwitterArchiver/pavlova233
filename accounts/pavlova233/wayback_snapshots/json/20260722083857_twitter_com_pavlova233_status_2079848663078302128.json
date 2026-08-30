@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2079598690042626528",
+    "created_at": "2026-07-22T08:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079848663078302128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1682303195832360960",
+          "start": 0,
+          "username": "ffynya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079848663078302128",
+    "in_reply_to_user_id": "1682303195832360960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079741347213500564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffynya 开心喵 😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-22T08:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079848663078302128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1682303195832360960",
+              "start": 0,
+              "username": "ffynya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079848663078302128",
+        "in_reply_to_user_id": "1682303195832360960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079741347213500564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffynya 开心喵 😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682303195832360960",
+        "conversation_id": "2079598690042626528",
+        "created_at": "2026-07-22T01:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079741347213500564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079741347213500564",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079598690042626528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 生日快乐喵🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 311,
+          "like_count": 9507,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜游戏｜动画｜友跨🏳️‍⚧️｜人道主义者｜互关｜不od｜不改花刀｜心理正常｜170cm 50kg｜聊天可以推特私信哦～🥰｜🇭🇰🇨🇳🇯🇵🍥",
+        "id": "1682303195832360960",
+        "location": "地球",
+        "name": "🫥ffy喵🫥🇭🇰🇨🇳🇯🇵互of",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 45,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "ffynya",
+        "verified": true
+      }
+    ]
+  }
+}

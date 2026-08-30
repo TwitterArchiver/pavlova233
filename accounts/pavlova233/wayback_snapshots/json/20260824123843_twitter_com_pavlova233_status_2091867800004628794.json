@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2091865594065006760",
+    "created_at": "2026-08-24T12:38:43.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T13:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091867800004628794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486893272622505984",
+          "start": 0,
+          "username": "Kuriyona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091867800004628794",
+    "in_reply_to_user_id": "1486893272622505984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091865594065006760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuriyona xm 不用军训"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2091865581553332224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfMqcpaMAARXL-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2091865594065006760",
+        "created_at": "2026-08-24T12:38:43.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091867800004628794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486893272622505984",
+              "start": 0,
+              "username": "Kuriyona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091867800004628794",
+        "in_reply_to_user_id": "1486893272622505984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091865594065006760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuriyona xm 不用军训"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091865581553332224"
+          ]
+        },
+        "author_id": "1486893272622505984",
+        "conversation_id": "2091865594065006760",
+        "created_at": "2026-08-24T12:29:57.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091865594065006760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/agyXu5Wa47",
+              "end": 141,
+              "expanded_url": "https://x.com/Kuriyona/status/2091865594065006760/photo/1",
+              "media_key": "3_2091865581553332224",
+              "start": 118,
+              "url": "https://t.co/agyXu5Wa47"
+            },
+            {
+              "display_url": "x.com/kuriyona/statu…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/kuriyona/status/2091817094551941601",
+              "start": 142,
+              "url": "https://t.co/tXGQ7ym7x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091865594065006760",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091865581553332224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091817094551941601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以说关于大证......🤔\n\n本来只是想去开到证明来免训军训什么的，然后就是医生又怀疑我双相了什么什么的，开完药最后给的诊断证明把之前的性身份障碍也写上去了🤔\n虽然不太喜欢性身份障碍的描述但是属于是可以免了军训又意外开到了大证好诶😋 https://t.co/agyXu5Wa47 https://t.co/tXGQ7ym7x0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「この夏の物语は、終わらない」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2091867800004628794",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 321,
+          "like_count": 13684,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-28T02:46:07.000Z",
+        "description": "请称呼我「未晞」\n\n女🤔|🏳️‍⚧️|18岁|准大学生|兴趣使然的开发者 前端为主|大证含糖🍥|166cm/超重60+\n\n对象 @bluse50\n最可爱的妹妹 @xFurina_，以及 @lfcypo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "bluse50"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "xFurina_"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "username": "lfcypo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuriyona.com",
+                "end": 23,
+                "expanded_url": "https://kuriyona.com/",
+                "start": 0,
+                "url": "https://t.co/PIToyCAoL1"
+              }
+            ]
+          }
+        },
+        "id": "1486893272622505984",
+        "is_identity_verified": true,
+        "location": "杭州 / 临安 | 绍兴 / ZPTC ",
+        "most_recent_tweet_id": "2091865594065006760",
+        "name": "Kuriyona 🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079289637819105280/r0Azk0r8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 414,
+          "like_count": 2481,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/PIToyCAoL1",
+        "username": "Kuriyona",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

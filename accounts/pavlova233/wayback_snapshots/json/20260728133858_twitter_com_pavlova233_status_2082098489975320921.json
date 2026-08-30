@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082098487517409280",
+        "3_2082098487550980096"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082092707057643975",
+    "created_at": "2026-07-28T13:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082098489975320921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "hoshinofuji___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TNUIPY2U5R",
+          "end": 68,
+          "expanded_url": "https://x.com/pavlova233/status/2082098489975320921/photo/1",
+          "media_key": "3_2082098487517409280",
+          "start": 45,
+          "url": "https://t.co/TNUIPY2U5R"
+        },
+        {
+          "display_url": "pic.x.com/TNUIPY2U5R",
+          "end": 68,
+          "expanded_url": "https://x.com/pavlova233/status/2082098489975320921/photo/1",
+          "media_key": "3_2082098487550980096",
+          "start": 45,
+          "url": "https://t.co/TNUIPY2U5R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082098489975320921",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082092707057643975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofuji___ 之前刚好卡了老号的 1w fo \n相信你可以再来一次 ! https://t.co/TNUIPY2U5R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2082098487517409280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUZiv_acAA0Hy5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2082098487550980096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUZiwHasAAT797.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082098487517409280",
+            "3_2082098487550980096"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082092707057643975",
+        "created_at": "2026-07-28T13:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082098489975320921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "hoshinofuji___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNUIPY2U5R",
+              "end": 68,
+              "expanded_url": "https://x.com/pavlova233/status/2082098489975320921/photo/1",
+              "media_key": "3_2082098487517409280",
+              "start": 45,
+              "url": "https://t.co/TNUIPY2U5R"
+            },
+            {
+              "display_url": "pic.x.com/TNUIPY2U5R",
+              "end": 68,
+              "expanded_url": "https://x.com/pavlova233/status/2082098489975320921/photo/1",
+              "media_key": "3_2082098487550980096",
+              "start": 45,
+              "url": "https://t.co/TNUIPY2U5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082098489975320921",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082092707057643975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofuji___ 之前刚好卡了老号的 1w fo \n相信你可以再来一次 ! https://t.co/TNUIPY2U5R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082080789119016961",
+        "conversation_id": "2082092707057643975",
+        "created_at": "2026-07-28T13:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082092707057643975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofuji___…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/hoshinofuji___/status/2082088474849804539",
+              "start": 124,
+              "url": "https://t.co/mlQKHjBO9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082092707057643975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082088474849804539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好累....那么多美好的回忆全部化为泡影\n\n本来以为自己的发言很把握度量了，讨厌的人直接拉黑，避免冲突加剧....\n\n小藤真的很爱自己的账号，这就是我所有的价值体现了，像所爱之物一样守护着...结果还是逃不过封禁\n\n抱歉，没了那个账号我就是个废物 https://t.co/mlQKHjBO9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "Gensokyo",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 318,
+          "like_count": 10349,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜love the whole world🇺🇳｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ（reborn）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 31,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "hoshinofuji___",
+        "verified": false
+      }
+    ]
+  }
+}

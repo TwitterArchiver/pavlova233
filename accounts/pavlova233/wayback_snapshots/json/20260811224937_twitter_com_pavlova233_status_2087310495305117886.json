@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2086682013063647698",
+    "created_at": "2026-08-11T22:49:37.000Z",
+    "display_text_range": [
+      13,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T23:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087310495305117886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060761823054610432",
+          "start": 0,
+          "username": "ZHYxulei001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087310495305117886",
+    "in_reply_to_user_id": "2060761823054610432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087195626278912326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZHYxulei001 我还是倾向于自己配置环境 一键隐藏之前貌似爆过不少雷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2086682013063647698",
+        "created_at": "2026-08-11T22:49:37.000Z",
+        "display_text_range": [
+          13,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087310495305117886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060761823054610432",
+              "start": 0,
+              "username": "ZHYxulei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087310495305117886",
+        "in_reply_to_user_id": "2060761823054610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087195626278912326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZHYxulei001 我还是倾向于自己配置环境 一键隐藏之前貌似爆过不少雷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060761823054610432",
+        "conversation_id": "2086682013063647698",
+        "created_at": "2026-08-11T15:13:10.000Z",
+        "display_text_range": [
+          12,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087195626278912326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087195626278912326",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086682013063647698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 搞个一键隐藏试试 我用银行没啥问题，我不玩游戏环境就没必要隐藏的很完美了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "「灯る日を、待っている」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2087310495305117886",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1785586210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 318,
+          "like_count": 11827,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T16:35:11.000Z",
+        "description": "成分复杂 莫不可测 喜欢折腾一些有的没的东西\ncn大磊\n全栈开发者 | 业余摄影师 | 业余无线电爱好者 BG4JMS | 坐标:中国山东\n想要去全国各地长长见识\nbilibili: 大磊の幻想\nbluesky: https://t.co/CCbmBQuNqG\nX大号: @ZHYxulei (不知何原因已被封禁)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 136,
+                "username": "ZHYxulei"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.zhyxulei.top",
+                "end": 130,
+                "expanded_url": "http://bsky.zhyxulei.top",
+                "start": 107,
+                "url": "https://t.co/CCbmBQuNqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.zhyxulei.top",
+                "end": 23,
+                "expanded_url": "https://blog.zhyxulei.top",
+                "start": 0,
+                "url": "https://t.co/YUG9pEVp68"
+              }
+            ]
+          }
+        },
+        "id": "2060761823054610432",
+        "is_identity_verified": false,
+        "location": "中国山东",
+        "most_recent_tweet_id": "2087195626278912326",
+        "name": "大磊想要买相机",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060761823054610432/1780203763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762598514343938/Cc-N1JbX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 270,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/YUG9pEVp68",
+        "username": "ZHYxulei001",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
