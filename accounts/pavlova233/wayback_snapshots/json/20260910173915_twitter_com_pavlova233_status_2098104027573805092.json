@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2098104027573805092",
+    "created_at": "2026-09-10T17:39:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098104027573805092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2070818840213422080",
+          "start": 3,
+          "username": "Trans_Helper"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098104027573805092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098098841086300298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Trans_Helper: TransSearch 发布更新\n更新内容：\n· AI伴读与要点总结\n· 更大的搜索范围\nand so on ……\n更多更新内容，欢迎自行体验\n至此，TransSearch 将正式与 Trans Prism 相融合。\nhttps://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2098096757003661312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3v4mGaMAA-oZo.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2098104027573805092",
+        "created_at": "2026-09-10T17:39:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098104027573805092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2070818840213422080",
+              "start": 3,
+              "username": "Trans_Helper"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098104027573805092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098098841086300298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Trans_Helper: TransSearch 发布更新\n更新内容：\n· AI伴读与要点总结\n· 更大的搜索范围\nand so on ……\n更多更新内容，欢迎自行体验\n至此，TransSearch 将正式与 Trans Prism 相融合。\nhttps://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098096757003661312"
+          ]
+        },
+        "author_id": "2070818840213422080",
+        "conversation_id": "2098098841086300298",
+        "created_at": "2026-09-10T17:18:39.000Z",
+        "display_text_range": [
+          0,
+          213
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098098841086300298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 175,
+              "id": "1471837590768603136",
+              "start": 167,
+              "username": "daanawa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "跨性别与性少数中文 wiki 聚合语义检索，覆盖 MtF / FtM / RLE / Mio 四部知识库。",
+              "display_url": "search.transhelper.org",
+              "end": 132,
+              "expanded_url": "https://search.transhelper.org",
+              "start": 109,
+              "status": 200,
+              "title": "TransHelper Prism",
+              "unwound_url": "https://search.transhelper.org",
+              "url": "https://t.co/dOUfLjVe1x"
+            },
+            {
+              "description": "跨性别与性少数中文 wiki 聚合语义检索，覆盖 MtF / FtM / RLE / Mio 四部知识库。",
+              "display_url": "search.chengxi.moe",
+              "end": 161,
+              "expanded_url": "https://search.chengxi.moe",
+              "start": 138,
+              "status": 200,
+              "title": "TransHelper Prism",
+              "unwound_url": "https://search.chengxi.moe",
+              "url": "https://t.co/l2SLfiVC38"
+            },
+            {
+              "display_url": "pic.x.com/ccY9cVRDup",
+              "end": 237,
+              "expanded_url": "https://x.com/Trans_Helper/status/2098098841086300298/photo/1",
+              "media_key": "3_2098096757003661312",
+              "start": 214,
+              "url": "https://t.co/ccY9cVRDup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098098841086300298",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098096757003661312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 158,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "TransSearch 发布更新\n更新内容：\n· AI伴读与要点总结\n· 更大的搜索范围\nand so on ……\n更多更新内容，欢迎自行体验\n至此，TransSearch 将正式与 Trans Prism 相融合。\nhttps://t.co/dOUfLjVe1x 亦可使用 https://t.co/l2SLfiVC38\n特别感谢 @daanawa 对此项目的贡献。\n\n2026.09.11 TransHelper Team https://t.co/ccY9cVRDup"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ogōri-shimogō, Yamaguchi, Japan",
+              "geo": {
+                "coordinates": [
+                  131.4,
+                  34.1
+                ],
+                "type": "Point"
+              },
+              "locality": "Ogōri-shimogō",
+              "region": "Yamaguchi"
+            }
+          ]
+        },
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "幻想郷",
+        "most_recent_tweet_id": "2098104027573805092",
+        "name": "Pavlova☘️",
+        "pinned_tweet_id": "2096683264509673554",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 347,
+          "like_count": 16373,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T10:44:33.000Z",
+        "description": "TransHelper 团队官方账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transhelper.org",
+                "end": 23,
+                "expanded_url": "https://transhelper.org",
+                "start": 0,
+                "url": "https://t.co/VJKVaqTtZY"
+              }
+            ]
+          }
+        },
+        "id": "2070818840213422080",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2098098841086300298",
+        "name": "TransHelper",
+        "pinned_tweet_id": "2070869416808751335",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070818840213422080/1783269902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820961390321664/_gbcmZoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 8,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/VJKVaqTtZY",
+        "username": "Trans_Helper",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

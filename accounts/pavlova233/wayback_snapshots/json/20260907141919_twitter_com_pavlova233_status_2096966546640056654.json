@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2096683264509673554",
+    "created_at": "2026-09-07T14:19:19.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096966546640056654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Saki_LN_0509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096966546640056654",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096960009481376206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saki_LN_0509 我是菜鸡 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2096683264509673554",
+        "created_at": "2026-09-07T14:19:19.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096966546640056654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Saki_LN_0509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096966546640056654",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096960009481376206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saki_LN_0509 我是菜鸡 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856699710981251072",
+        "conversation_id": "2096683264509673554",
+        "created_at": "2026-09-07T13:53:20.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096960009481376206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096960009481376206",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096683264509673554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 羡慕高技术力"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "幻想郷",
+        "most_recent_tweet_id": "2096966546640056654",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 342,
+          "like_count": 15880,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Founder & Chair, Palintropic · Lead, Project Starlight | Keep Thinking｜@Palintropic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Palintropic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "25nightcord.com",
+                "end": 23,
+                "expanded_url": "https://25nightcord.com",
+                "start": 0,
+                "url": "https://t.co/VFkjqr6vMS"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "is_identity_verified": false,
+        "location": "上海 静安",
+        "most_recent_tweet_id": "2096960009481376206",
+        "name": "Lewis",
+        "pinned_tweet_id": "2082820174613532693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856699710981251072/1786816339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088337151885033472/xRA5RC6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 451,
+          "like_count": 3054,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/VFkjqr6vMS",
+        "username": "Saki_LN_0509",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

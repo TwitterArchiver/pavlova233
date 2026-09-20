@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2097490426332684422",
+    "created_at": "2026-09-09T06:59:06.000Z",
+    "display_text_range": [
+      17,
+      159
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T07:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097580540450992403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2096992990338469889",
+          "start": 0,
+          "username": "Ambient_Isotopy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097580540450992403",
+    "in_reply_to_user_id": "2096992990338469889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097490426332684422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ambient_Isotopy 抱抱，我也没考上本科。😭\n但情况不同的是我的学校主动让我们去考四六级，但就我现在和初中生差不多的英语水平来说真能在大一把四级给考下来吗？四级没过的到时学校强制安排实习好像就没什么时间自己备考专升本了。\n提到专升本高数又是一个绕不开的话题，然而我高中学得最差的科目就是数学和英语 ()。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_2097490412000743424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvIaq8XkAAKnjR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2097490426332684422",
+        "created_at": "2026-09-09T06:59:06.000Z",
+        "display_text_range": [
+          17,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097580540450992403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2096992990338469889",
+              "start": 0,
+              "username": "Ambient_Isotopy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097580540450992403",
+        "in_reply_to_user_id": "2096992990338469889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097490426332684422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ambient_Isotopy 抱抱，我也没考上本科。😭\n但情况不同的是我的学校主动让我们去考四六级，但就我现在和初中生差不多的英语水平来说真能在大一把四级给考下来吗？四级没过的到时学校强制安排实习好像就没什么时间自己备考专升本了。\n提到专升本高数又是一个绕不开的话题，然而我高中学得最差的科目就是数学和英语 ()。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097490412000743424"
+          ]
+        },
+        "author_id": "2096992990338469889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097490426332684422",
+        "created_at": "2026-09-09T01:01:01.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097490426332684422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AK06vvWbJl",
+              "end": 137,
+              "expanded_url": "https://x.com/Ambient_Isotopy/status/2097490426332684422/photo/1",
+              "media_key": "3_2097490412000743424",
+              "start": 114,
+              "url": "https://t.co/AK06vvWbJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097490426332684422",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097490412000743424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没能考上本科，始终是我难以解开的心结\n\n每次在社交媒体上刷到别人分享的大学生活：专业课、实验室、高数、四六级、论文、校招、实习……\n\n我总觉得和他人相比自己的人生缺少了些什么，而这些经历、这些词汇大概永远不会成为我生活的一部分 https://t.co/AK06vvWbJl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ogōri-shimogō, Yamaguchi, Japan",
+              "geo": {
+                "coordinates": [
+                  131.4,
+                  34.1
+                ],
+                "type": "Point"
+              },
+              "locality": "Ogōri-shimogō",
+              "region": "Yamaguchi"
+            }
+          ]
+        },
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "幻想郷",
+        "most_recent_tweet_id": "2097580540450992403",
+        "name": "Pavlova☘️",
+        "pinned_tweet_id": "2096683264509673554",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 346,
+          "like_count": 16182,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T16:05:21.000Z",
+        "description": "同痕： @decohere_here ❤️ ｜学习、看书",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "decohere_here"
+              }
+            ]
+          }
+        },
+        "id": "2096992990338469889",
+        "is_identity_verified": false,
+        "location": "深圳",
+        "most_recent_tweet_id": "2097572711539077271",
+        "name": "同痕",
+        "pinned_tweet_id": "2097263072050352480",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096992990338469889/1788858853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097285351547232256/AOmlS0ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 73,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "Ambient_Isotopy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

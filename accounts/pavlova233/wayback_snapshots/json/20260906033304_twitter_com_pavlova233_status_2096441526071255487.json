@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096242072848416770",
+        "3_2096242072865079297",
+        "3_2096242072894459904",
+        "3_2096242072844148736"
+      ],
+      "media_source_tweet_id": [
+        "2096242083401257203",
+        "2096242083401257203",
+        "2096242083401257203",
+        "2096242083401257203"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "conversation_id": "2096441526071255487",
+    "created_at": "2026-09-06T03:33:04.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096441526071255487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690424092632268800",
+          "start": 3,
+          "username": "ZhaoQie888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fhy5TU59RZ",
+          "end": 67,
+          "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+          "media_key": "3_2096242072848416770",
+          "start": 44,
+          "url": "https://t.co/Fhy5TU59RZ"
+        },
+        {
+          "display_url": "pic.x.com/Fhy5TU59RZ",
+          "end": 67,
+          "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+          "media_key": "3_2096242072865079297",
+          "start": 44,
+          "url": "https://t.co/Fhy5TU59RZ"
+        },
+        {
+          "display_url": "pic.x.com/Fhy5TU59RZ",
+          "end": 67,
+          "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+          "media_key": "3_2096242072894459904",
+          "start": 44,
+          "url": "https://t.co/Fhy5TU59RZ"
+        },
+        {
+          "display_url": "pic.x.com/Fhy5TU59RZ",
+          "end": 67,
+          "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+          "media_key": "3_2096242072844148736",
+          "start": 44,
+          "url": "https://t.co/Fhy5TU59RZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096441526071255487",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096242072848416770"
+      },
+      {
+        "media_key": "3_2096242072865079297"
+      },
+      {
+        "media_key": "3_2096242072894459904"
+      },
+      {
+        "media_key": "3_2096242072844148736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096242083401257203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZhaoQie888: PyCon2026\n发生在Shanghai最好的季节～ https://t.co/Fhy5TU59RZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096242072848416770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdZDxNbwAIJypd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2096242072865079297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdZDxRaAAEPdvN.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2096242072894459904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdZDxYaUAAuoqx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2096242072844148736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdZDxMaoAATPKC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096242072848416770",
+            "3_2096242072865079297",
+            "3_2096242072894459904",
+            "3_2096242072844148736"
+          ],
+          "media_source_tweet_id": [
+            "2096242083401257203",
+            "2096242083401257203",
+            "2096242083401257203",
+            "2096242083401257203"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "conversation_id": "2096441526071255487",
+        "created_at": "2026-09-06T03:33:04.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096441526071255487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690424092632268800",
+              "start": 3,
+              "username": "ZhaoQie888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fhy5TU59RZ",
+              "end": 67,
+              "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+              "media_key": "3_2096242072848416770",
+              "start": 44,
+              "url": "https://t.co/Fhy5TU59RZ"
+            },
+            {
+              "display_url": "pic.x.com/Fhy5TU59RZ",
+              "end": 67,
+              "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+              "media_key": "3_2096242072865079297",
+              "start": 44,
+              "url": "https://t.co/Fhy5TU59RZ"
+            },
+            {
+              "display_url": "pic.x.com/Fhy5TU59RZ",
+              "end": 67,
+              "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+              "media_key": "3_2096242072894459904",
+              "start": 44,
+              "url": "https://t.co/Fhy5TU59RZ"
+            },
+            {
+              "display_url": "pic.x.com/Fhy5TU59RZ",
+              "end": 67,
+              "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+              "media_key": "3_2096242072844148736",
+              "start": 44,
+              "url": "https://t.co/Fhy5TU59RZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096441526071255487",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096242072848416770"
+          },
+          {
+            "media_key": "3_2096242072865079297"
+          },
+          {
+            "media_key": "3_2096242072894459904"
+          },
+          {
+            "media_key": "3_2096242072844148736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096242083401257203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZhaoQie888: PyCon2026\n发生在Shanghai最好的季节～ https://t.co/Fhy5TU59RZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096242072848416770",
+            "3_2096242072865079297",
+            "3_2096242072894459904",
+            "3_2096242072844148736"
+          ]
+        },
+        "author_id": "1690424092632268800",
+        "conversation_id": "2096242083401257203",
+        "created_at": "2026-09-05T14:20:33.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096242083401257203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fhy5TU59RZ",
+              "end": 51,
+              "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+              "media_key": "3_2096242072848416770",
+              "start": 28,
+              "url": "https://t.co/Fhy5TU59RZ"
+            },
+            {
+              "display_url": "pic.x.com/Fhy5TU59RZ",
+              "end": 51,
+              "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+              "media_key": "3_2096242072865079297",
+              "start": 28,
+              "url": "https://t.co/Fhy5TU59RZ"
+            },
+            {
+              "display_url": "pic.x.com/Fhy5TU59RZ",
+              "end": 51,
+              "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+              "media_key": "3_2096242072894459904",
+              "start": 28,
+              "url": "https://t.co/Fhy5TU59RZ"
+            },
+            {
+              "display_url": "pic.x.com/Fhy5TU59RZ",
+              "end": 51,
+              "expanded_url": "https://x.com/ZhaoQie888/status/2096242083401257203/photo/1",
+              "media_key": "3_2096242072844148736",
+              "start": 28,
+              "url": "https://t.co/Fhy5TU59RZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096242083401257203",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096242072848416770"
+          },
+          {
+            "media_key": "3_2096242072865079297"
+          },
+          {
+            "media_key": "3_2096242072894459904"
+          },
+          {
+            "media_key": "3_2096242072844148736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "PyCon2026\n发生在Shanghai最好的季节～ https://t.co/Fhy5TU59RZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2096441526071255487",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 335,
+          "like_count": 15552,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-12T18:04:51.000Z",
+        "description": "Researcher & Software Engineer\nInterests: AI Agent🤖 & Dev💻 & Sec🐛 & Cycling🚴\nStarwar✨ and Dune Fan",
+        "id": "1690424092632268800",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2096242083401257203",
+        "name": "ZhaoQie888",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690424092632268800/1753509908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997848751822766081/mDE7qUq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 977,
+          "like_count": 5304,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "ZhaoQie888",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
