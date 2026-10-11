@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107391489617580032",
+        "3_2107391489542160384",
+        "3_2107391489705725952",
+        "3_2107391489374343169"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107391554738671939",
+    "created_at": "2026-10-06T08:44:34.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T09:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107391554738671939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wsXudxpVT5",
+          "end": 49,
+          "expanded_url": "https://x.com/pavlova233/status/2107391554738671939/photo/1",
+          "media_key": "3_2107391489617580032",
+          "start": 26,
+          "url": "https://t.co/wsXudxpVT5"
+        },
+        {
+          "display_url": "pic.x.com/wsXudxpVT5",
+          "end": 49,
+          "expanded_url": "https://x.com/pavlova233/status/2107391554738671939/photo/1",
+          "media_key": "3_2107391489542160384",
+          "start": 26,
+          "url": "https://t.co/wsXudxpVT5"
+        },
+        {
+          "display_url": "pic.x.com/wsXudxpVT5",
+          "end": 49,
+          "expanded_url": "https://x.com/pavlova233/status/2107391554738671939/photo/1",
+          "media_key": "3_2107391489705725952",
+          "start": 26,
+          "url": "https://t.co/wsXudxpVT5"
+        },
+        {
+          "display_url": "pic.x.com/wsXudxpVT5",
+          "end": 49,
+          "expanded_url": "https://x.com/pavlova233/status/2107391554738671939/photo/1",
+          "media_key": "3_2107391489374343169",
+          "start": 26,
+          "url": "https://t.co/wsXudxpVT5"
+        },
+        {
+          "display_url": "x.com/ak1raq_love/st…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/ak1raq_love/status/2107333174288334876",
+          "start": 50,
+          "url": "https://t.co/IWiahfyV1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107391554738671939",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107391489617580032"
+      },
+      {
+        "media_key": "3_2107391489542160384"
+      },
+      {
+        "media_key": "3_2107391489705725952"
+      },
+      {
+        "media_key": "3_2107391489374343169"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107333174288334876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢款待，下次再会！\n(赶火车好像错过了大贴贴 😭 https://t.co/wsXudxpVT5 https://t.co/IWiahfyV1s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107391489617580032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT71ZPVWUAAaadj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107391489542160384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT71ZPDXgAAgFIB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107391489705725952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT71ZPqXUAAMFhl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107391489374343169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT71ZObW0AERPkJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2107333147331555328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7AVRYacAAslbu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2107333147742597120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7AVS6acAAwTH6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107391489617580032",
+            "3_2107391489542160384",
+            "3_2107391489705725952",
+            "3_2107391489374343169"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107391554738671939",
+        "created_at": "2026-10-06T08:44:34.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107391554738671939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wsXudxpVT5",
+              "end": 49,
+              "expanded_url": "https://x.com/pavlova233/status/2107391554738671939/photo/1",
+              "media_key": "3_2107391489617580032",
+              "start": 26,
+              "url": "https://t.co/wsXudxpVT5"
+            },
+            {
+              "display_url": "pic.x.com/wsXudxpVT5",
+              "end": 49,
+              "expanded_url": "https://x.com/pavlova233/status/2107391554738671939/photo/1",
+              "media_key": "3_2107391489542160384",
+              "start": 26,
+              "url": "https://t.co/wsXudxpVT5"
+            },
+            {
+              "display_url": "pic.x.com/wsXudxpVT5",
+              "end": 49,
+              "expanded_url": "https://x.com/pavlova233/status/2107391554738671939/photo/1",
+              "media_key": "3_2107391489705725952",
+              "start": 26,
+              "url": "https://t.co/wsXudxpVT5"
+            },
+            {
+              "display_url": "pic.x.com/wsXudxpVT5",
+              "end": 49,
+              "expanded_url": "https://x.com/pavlova233/status/2107391554738671939/photo/1",
+              "media_key": "3_2107391489374343169",
+              "start": 26,
+              "url": "https://t.co/wsXudxpVT5"
+            },
+            {
+              "display_url": "x.com/ak1raq_love/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/ak1raq_love/status/2107333174288334876",
+              "start": 50,
+              "url": "https://t.co/IWiahfyV1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107391554738671939",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107391489617580032"
+          },
+          {
+            "media_key": "3_2107391489542160384"
+          },
+          {
+            "media_key": "3_2107391489705725952"
+          },
+          {
+            "media_key": "3_2107391489374343169"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107333174288334876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢款待，下次再会！\n(赶火车好像错过了大贴贴 😭 https://t.co/wsXudxpVT5 https://t.co/IWiahfyV1s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107333147331555328",
+            "3_2107333147742597120"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107333174288334876",
+        "created_at": "2026-10-06T04:52:35.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T05:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107333174288334876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSdsLyfh56",
+              "end": 55,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2107333174288334876/photo/1",
+              "media_key": "3_2107333147331555328",
+              "start": 32,
+              "url": "https://t.co/pSdsLyfh56"
+            },
+            {
+              "display_url": "pic.x.com/pSdsLyfh56",
+              "end": 55,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2107333174288334876/photo/1",
+              "media_key": "3_2107333147742597120",
+              "start": 32,
+              "url": "https://t.co/pSdsLyfh56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107333174288334876",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107333147331555328"
+          },
+          {
+            "media_key": "3_2107333147742597120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 500,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "和一直很想见的Pavlova面基上了耶！\n依旧神秘sm麦当劳（ https://t.co/pSdsLyfh56"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2107391554738671939",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 384,
+          "like_count": 20687,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/📍Xiamen/Suzhou",
+        "most_recent_tweet_id": "2107389499651309894",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8801,
+          "following_count": 1327,
+          "like_count": 229913,
+          "listed_count": 6,
+          "media_count": 1402,
+          "tweet_count": 10157
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

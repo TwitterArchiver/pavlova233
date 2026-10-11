@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2105328148963582372",
+    "created_at": "2026-10-01T03:02:11.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T04:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105493452003967109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999719301176262658",
+          "start": 0,
+          "username": "snzkYuurei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105493452003967109",
+    "in_reply_to_user_id": "1999719301176262658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105345848167256199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snzkYuurei 查的时候根本不看功率 ("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2105328148963582372",
+        "created_at": "2026-10-01T03:02:11.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105493452003967109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999719301176262658",
+              "start": 0,
+              "username": "snzkYuurei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105493452003967109",
+        "in_reply_to_user_id": "1999719301176262658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105345848167256199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snzkYuurei 查的时候根本不看功率 ("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999719301176262658",
+        "conversation_id": "2105328148963582372",
+        "created_at": "2026-09-30T17:15:40.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105345848167256199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105345848167256199",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105331931613409337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 那买个400w的小功率电煮炉（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2105493452003967109",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 368,
+          "like_count": 19527,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-13T05:53:41.000Z",
+        "description": "何か喋りたい。何か話したい。何か書きたい。何か歌いたい。何か伝えたい。しかし僕の世界は、言葉も文字も旋律も忘れている。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "komari.yuurei.de",
+                "end": 23,
+                "expanded_url": "https://komari.yuurei.de",
+                "start": 0,
+                "url": "https://t.co/blR0T8PQI8"
+              }
+            ]
+          }
+        },
+        "id": "1999719301176262658",
+        "is_identity_verified": false,
+        "location": "Antipathy World",
+        "most_recent_tweet_id": "2105345848167256199",
+        "name": "篠崎 幽怜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999719301176262658/1765606652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999724697999855616/6ZjTK6m__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 114,
+          "like_count": 24278,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 1376
+        },
+        "url": "https://t.co/blR0T8PQI8",
+        "username": "snzkYuurei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2103165871543967801",
+    "created_at": "2026-09-24T16:53:13.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T17:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103165871543967801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "965583779380129792",
+          "start": 3,
+          "username": "mario_2333"
+        },
+        {
+          "end": 27,
+          "id": "1676119892230037509",
+          "start": 16,
+          "username": "pavlova233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103165871543967801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103156092574601582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mario_2333: @pavlova233 其实怀疑是有哪没连上qwq\n拖动一下器件什么的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2103165871543967801",
+        "created_at": "2026-09-24T16:53:13.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103165871543967801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "965583779380129792",
+              "start": 3,
+              "username": "mario_2333"
+            },
+            {
+              "end": 27,
+              "id": "1676119892230037509",
+              "start": 16,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103165871543967801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103156092574601582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mario_2333: @pavlova233 其实怀疑是有哪没连上qwq\n拖动一下器件什么的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "965583779380129792",
+        "conversation_id": "2103136973724770794",
+        "created_at": "2026-09-24T16:14:21.000Z",
+        "display_text_range": [
+          12,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103156092574601582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103156092574601582",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103153238661013848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 其实怀疑是有哪没连上qwq\n拖动一下器件什么的呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2103165871543967801",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 359,
+          "like_count": 18350,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家交朋友，会温暖对待每个友善的人🥰 | 本体是一种猫🐱 | 18 y.o. forever (⁠≧⁠▽⁠≦⁠) | 可爱即正义！| 小可爱贴贴贴贴💕 | 日常和碎碎念✨ | 蓝标陌生人送的我是真人没收益😘 | 联系请戳tg⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "is_identity_verified": false,
+        "location": "UTC+2",
+        "most_recent_tweet_id": "2103158280696848456",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/965583779380129792/1778057704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4405,
+          "following_count": 281,
+          "like_count": 63957,
+          "listed_count": 20,
+          "media_count": 1307,
+          "tweet_count": 20986
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

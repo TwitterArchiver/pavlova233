@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2107692149584388175",
+    "created_at": "2026-10-07T05:35:12.000Z",
+    "display_text_range": [
+      16,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T06:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107706286498546008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1388885035927834625",
+          "start": 0,
+          "username": "Triticale_eyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107706286498546008",
+    "in_reply_to_user_id": "1676119892230037509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107704595418169598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Triticale_eyyy Pro 9 5G 的 SQ3 要比 SQ2 和更早之前的处理器强不少 在这之后的或许可以考虑 \n但是目前二手价格不大好看 ("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2107692149584388175",
+        "created_at": "2026-10-07T05:35:12.000Z",
+        "display_text_range": [
+          16,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107706286498546008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1388885035927834625",
+              "start": 0,
+              "username": "Triticale_eyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107706286498546008",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107704595418169598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Triticale_eyyy Pro 9 5G 的 SQ3 要比 SQ2 和更早之前的处理器强不少 在这之后的或许可以考虑 \n但是目前二手价格不大好看 ("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2107692149584388175",
+        "created_at": "2026-10-07T05:28:29.000Z",
+        "display_text_range": [
+          16,
+          188
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107704595418169598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1388885035927834625",
+              "start": 0,
+              "username": "Triticale_eyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107704595418169598",
+        "in_reply_to_user_id": "1388885035927834625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107692149584388175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Triticale_eyyy 花瓶 个人认为 Pro X 唯二优势是外观和续航 然而过了这么多年应该很难找到电池好的 () \nPro X 的 SQ1/SQ2 大概就超频 855 水平 只能勉强运行点 Arm 原生软件 碰到转译就卡得没法用 然而至今仍有大批国产软件和老工业软件没有 Arm 版本 我 Win 11 Arm 双系统的米板 5 已经吃灰了几个月 当生产力是真不行"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2107706286498546008",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 385,
+          "like_count": 20952,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-02T15:56:28.000Z",
+        "description": "喵帕斯～\n我们所度过的每个平凡的日常，也许就是连续发生的奇迹。",
+        "id": "1388885035927834625",
+        "is_identity_verified": false,
+        "location": "Rhodes Island Pharmaceutical",
+        "most_recent_tweet_id": "2107695195605409816",
+        "name": "小黑麦",
+        "pinned_tweet_id": "2085768741250592982",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1388885035927834625/1771507261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069377555753562112/cMuVF5Xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 874,
+          "like_count": 30565,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 2408
+        },
+        "url": "",
+        "username": "Triticale_eyyy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

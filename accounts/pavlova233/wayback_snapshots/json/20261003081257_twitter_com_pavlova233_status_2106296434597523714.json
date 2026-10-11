@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106296428226318336",
+        "3_2106296428536696832",
+        "3_2106296429870514176",
+        "3_2106296424937947137"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106296434597523714",
+    "created_at": "2026-10-03T08:12:57.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106296434597523714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/13xHb1kzRa",
+          "end": 41,
+          "expanded_url": "https://x.com/pavlova233/status/2106296434597523714/photo/1",
+          "media_key": "3_2106296428226318336",
+          "start": 18,
+          "url": "https://t.co/13xHb1kzRa"
+        },
+        {
+          "display_url": "pic.x.com/13xHb1kzRa",
+          "end": 41,
+          "expanded_url": "https://x.com/pavlova233/status/2106296434597523714/photo/1",
+          "media_key": "3_2106296428536696832",
+          "start": 18,
+          "url": "https://t.co/13xHb1kzRa"
+        },
+        {
+          "display_url": "pic.x.com/13xHb1kzRa",
+          "end": 41,
+          "expanded_url": "https://x.com/pavlova233/status/2106296434597523714/photo/1",
+          "media_key": "3_2106296429870514176",
+          "start": 18,
+          "url": "https://t.co/13xHb1kzRa"
+        },
+        {
+          "display_url": "pic.x.com/13xHb1kzRa",
+          "end": 41,
+          "expanded_url": "https://x.com/pavlova233/status/2106296434597523714/photo/1",
+          "media_key": "3_2106296424937947137",
+          "start": 18,
+          "url": "https://t.co/13xHb1kzRa"
+        },
+        {
+          "display_url": "x.com/pavlova233/sta…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/pavlova233/status/2089315118366834733",
+          "start": 42,
+          "url": "https://t.co/cb9PdibOTX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106296434597523714",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106296428226318336"
+      },
+      {
+        "media_key": "3_2106296428536696832"
+      },
+      {
+        "media_key": "3_2106296429870514176"
+      },
+      {
+        "media_key": "3_2106296424937947137"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089315118366834733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "趁热情还在\n身心俱疲 不会有下次了 https://t.co/13xHb1kzRa https://t.co/cb9PdibOTX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "3_2106296428226318336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsRcRwakAALZkk.jpg",
+        "width": 1024
+      },
+      {
+        "height": 472,
+        "media_key": "3_2106296428536696832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsRcS6akAA9LDP.jpg",
+        "width": 1024
+      },
+      {
+        "height": 472,
+        "media_key": "3_2106296429870514176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsRcX4bAAATwQF.jpg",
+        "width": 1024
+      },
+      {
+        "height": 472,
+        "media_key": "3_2106296424937947137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsRcFgaAAEJKnf.jpg",
+        "width": 1024
+      },
+      {
+        "height": 943,
+        "media_key": "3_2089315115292311552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP69BxbaQAACMEP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 943,
+        "media_key": "3_2089315115451736064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP69ByBa4AANWPn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 943,
+        "media_key": "3_2089315115317477376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP69BxhaQAA1EA6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106296428226318336",
+            "3_2106296428536696832",
+            "3_2106296429870514176",
+            "3_2106296424937947137"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106296434597523714",
+        "created_at": "2026-10-03T08:12:57.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106296434597523714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/13xHb1kzRa",
+              "end": 41,
+              "expanded_url": "https://x.com/pavlova233/status/2106296434597523714/photo/1",
+              "media_key": "3_2106296428226318336",
+              "start": 18,
+              "url": "https://t.co/13xHb1kzRa"
+            },
+            {
+              "display_url": "pic.x.com/13xHb1kzRa",
+              "end": 41,
+              "expanded_url": "https://x.com/pavlova233/status/2106296434597523714/photo/1",
+              "media_key": "3_2106296428536696832",
+              "start": 18,
+              "url": "https://t.co/13xHb1kzRa"
+            },
+            {
+              "display_url": "pic.x.com/13xHb1kzRa",
+              "end": 41,
+              "expanded_url": "https://x.com/pavlova233/status/2106296434597523714/photo/1",
+              "media_key": "3_2106296429870514176",
+              "start": 18,
+              "url": "https://t.co/13xHb1kzRa"
+            },
+            {
+              "display_url": "pic.x.com/13xHb1kzRa",
+              "end": 41,
+              "expanded_url": "https://x.com/pavlova233/status/2106296434597523714/photo/1",
+              "media_key": "3_2106296424937947137",
+              "start": 18,
+              "url": "https://t.co/13xHb1kzRa"
+            },
+            {
+              "display_url": "x.com/pavlova233/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/pavlova233/status/2089315118366834733",
+              "start": 42,
+              "url": "https://t.co/cb9PdibOTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106296434597523714",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106296428226318336"
+          },
+          {
+            "media_key": "3_2106296428536696832"
+          },
+          {
+            "media_key": "3_2106296429870514176"
+          },
+          {
+            "media_key": "3_2106296424937947137"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089315118366834733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "趁热情还在\n身心俱疲 不会有下次了 https://t.co/13xHb1kzRa https://t.co/cb9PdibOTX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089315115292311552",
+            "3_2089315115451736064",
+            "3_2089315115317477376"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089315118366834733",
+        "created_at": "2026-08-17T11:35:16.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089315118366834733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYMZs5ruoY",
+              "end": 47,
+              "expanded_url": "https://x.com/pavlova233/status/2089315118366834733/photo/1",
+              "media_key": "3_2089315115292311552",
+              "start": 24,
+              "url": "https://t.co/XYMZs5ruoY"
+            },
+            {
+              "display_url": "pic.x.com/XYMZs5ruoY",
+              "end": 47,
+              "expanded_url": "https://x.com/pavlova233/status/2089315118366834733/photo/1",
+              "media_key": "3_2089315115451736064",
+              "start": 24,
+              "url": "https://t.co/XYMZs5ruoY"
+            },
+            {
+              "display_url": "pic.x.com/XYMZs5ruoY",
+              "end": 47,
+              "expanded_url": "https://x.com/pavlova233/status/2089315118366834733/photo/1",
+              "media_key": "3_2089315115317477376",
+              "start": 24,
+              "url": "https://t.co/XYMZs5ruoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089315118366834733",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089315115292311552"
+          },
+          {
+            "media_key": "3_2089315115451736064"
+          },
+          {
+            "media_key": "3_2089315115317477376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1032,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "无缘 T1000 \n明年再见 (或是再也不见? https://t.co/XYMZs5ruoY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2106296434597523714",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 372,
+          "like_count": 20042,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

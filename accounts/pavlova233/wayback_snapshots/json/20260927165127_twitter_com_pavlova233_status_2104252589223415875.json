@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2104251910735986825",
+    "created_at": "2026-09-27T16:51:27.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104252589223415875"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104252589223415875",
+    "in_reply_to_user_id": "1676119892230037509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104251910735986825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的语言组织能力还是不行 不清楚该怎么单独回复只好发条帖子统一感谢下了 🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2104251891899346945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPN8maasAEqXh1.jpg",
+        "width": 1699
+      },
+      {
+        "height": 1521,
+        "media_key": "3_2104251891891019776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPN8mYboAA0k2R.jpg",
+        "width": 1521
+      },
+      {
+        "height": 1139,
+        "media_key": "3_2104251891886772224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPN8mXa0AA04YZ.jpg",
+        "width": 1519
+      },
+      {
+        "height": 1125,
+        "media_key": "3_2104251891882536960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPN8mWaMAAYj6J.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2104251910735986825",
+        "created_at": "2026-09-27T16:51:27.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104252589223415875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104252589223415875",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104251910735986825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的语言组织能力还是不行 不清楚该怎么单独回复只好发条帖子统一感谢下了 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104251891899346945",
+            "3_2104251891891019776",
+            "3_2104251891886772224",
+            "3_2104251891882536960"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104251910735986825",
+        "created_at": "2026-09-27T16:48:45.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104251910735986825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWtlHzcy79",
+              "end": 155,
+              "expanded_url": "https://x.com/pavlova233/status/2104251910735986825/photo/1",
+              "media_key": "3_2104251891899346945",
+              "start": 132,
+              "url": "https://t.co/dWtlHzcy79"
+            },
+            {
+              "display_url": "pic.x.com/dWtlHzcy79",
+              "end": 155,
+              "expanded_url": "https://x.com/pavlova233/status/2104251910735986825/photo/1",
+              "media_key": "3_2104251891891019776",
+              "start": 132,
+              "url": "https://t.co/dWtlHzcy79"
+            },
+            {
+              "display_url": "pic.x.com/dWtlHzcy79",
+              "end": 155,
+              "expanded_url": "https://x.com/pavlova233/status/2104251910735986825/photo/1",
+              "media_key": "3_2104251891886772224",
+              "start": 132,
+              "url": "https://t.co/dWtlHzcy79"
+            },
+            {
+              "display_url": "pic.x.com/dWtlHzcy79",
+              "end": 155,
+              "expanded_url": "https://x.com/pavlova233/status/2104251910735986825/photo/1",
+              "media_key": "3_2104251891882536960",
+              "start": 132,
+              "url": "https://t.co/dWtlHzcy79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104251910735986825",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104251891899346945"
+          },
+          {
+            "media_key": "3_2104251891891019776"
+          },
+          {
+            "media_key": "3_2104251891886772224"
+          },
+          {
+            "media_key": "3_2104251891882536960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺 看到了一些和个人站相关的帖子，偶然发现自己的部落格最近有很多新朋友主动到访评论和互链。\n非常感谢愿意和我互动的大家，似乎感受到一点刚建站那会的乐趣了。\n另外自己最近在补一些基础知识，可能没法在这里和博客稳定更新大家想看的内容，但我会尽可能做得更好，请多关照！ https://t.co/dWtlHzcy79"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2104252589223415875",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 363,
+          "like_count": 18938,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

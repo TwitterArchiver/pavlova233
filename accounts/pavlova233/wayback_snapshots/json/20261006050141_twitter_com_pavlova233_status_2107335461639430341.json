@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107333147331555328",
+        "3_2107333147742597120"
+      ],
+      "media_source_tweet_id": [
+        "2107333174288334876",
+        "2107333174288334876"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107335461639430341",
+    "created_at": "2026-10-06T05:01:41.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T06:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107335461639430341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pSdsLyfh56",
+          "end": 72,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2107333174288334876/photo/1",
+          "media_key": "3_2107333147331555328",
+          "start": 49,
+          "url": "https://t.co/pSdsLyfh56"
+        },
+        {
+          "display_url": "pic.x.com/pSdsLyfh56",
+          "end": 72,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2107333174288334876/photo/1",
+          "media_key": "3_2107333147742597120",
+          "start": 49,
+          "url": "https://t.co/pSdsLyfh56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107335461639430341",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107333147331555328"
+      },
+      {
+        "media_key": "3_2107333147742597120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107333174288334876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Ak1raQ_love: 和一直很想见的Pavlova面基上了耶！\n依旧神秘sm麦当劳（ https://t.co/pSdsLyfh56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2107333147331555328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7AVRYacAAslbu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2107333147742597120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7AVS6acAAwTH6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107333147331555328",
+            "3_2107333147742597120"
+          ],
+          "media_source_tweet_id": [
+            "2107333174288334876",
+            "2107333174288334876"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107335461639430341",
+        "created_at": "2026-10-06T05:01:41.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107335461639430341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSdsLyfh56",
+              "end": 72,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2107333174288334876/photo/1",
+              "media_key": "3_2107333147331555328",
+              "start": 49,
+              "url": "https://t.co/pSdsLyfh56"
+            },
+            {
+              "display_url": "pic.x.com/pSdsLyfh56",
+              "end": 72,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2107333174288334876/photo/1",
+              "media_key": "3_2107333147742597120",
+              "start": 49,
+              "url": "https://t.co/pSdsLyfh56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107335461639430341",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107333147331555328"
+          },
+          {
+            "media_key": "3_2107333147742597120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107333174288334876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Ak1raQ_love: 和一直很想见的Pavlova面基上了耶！\n依旧神秘sm麦当劳（ https://t.co/pSdsLyfh56"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107333147331555328",
+            "3_2107333147742597120"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107333174288334876",
+        "created_at": "2026-10-06T04:52:35.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T05:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107333174288334876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSdsLyfh56",
+              "end": 55,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2107333174288334876/photo/1",
+              "media_key": "3_2107333147331555328",
+              "start": 32,
+              "url": "https://t.co/pSdsLyfh56"
+            },
+            {
+              "display_url": "pic.x.com/pSdsLyfh56",
+              "end": 55,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2107333174288334876/photo/1",
+              "media_key": "3_2107333147742597120",
+              "start": 32,
+              "url": "https://t.co/pSdsLyfh56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107333174288334876",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107333147331555328"
+          },
+          {
+            "media_key": "3_2107333147742597120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "和一直很想见的Pavlova面基上了耶！\n依旧神秘sm麦当劳（ https://t.co/pSdsLyfh56"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2107335461639430341",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 382,
+          "like_count": 20681,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/📍Xiamen/Suzhou",
+        "most_recent_tweet_id": "2107333174288334876",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8805,
+          "following_count": 1328,
+          "like_count": 229911,
+          "listed_count": 6,
+          "media_count": 1400,
+          "tweet_count": 10154
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

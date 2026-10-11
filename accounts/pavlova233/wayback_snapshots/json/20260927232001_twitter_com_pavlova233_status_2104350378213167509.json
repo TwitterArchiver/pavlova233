@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2104319095944679872",
+    "created_at": "2026-09-27T23:20:01.000Z",
+    "display_text_range": [
+      14,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104350378213167509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1258361136841457664",
+          "start": 0,
+          "username": "ShiauPa46QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104350378213167509",
+    "in_reply_to_user_id": "1258361136841457664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104319095944679872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiauPa46QwQ 就看和什么东西比较了 \n跟 iPad 或一般的安卓平板相比普遍要重不少 \n但如果和普通轻薄本比算是降维打击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2104319095944679872",
+        "created_at": "2026-09-27T23:20:01.000Z",
+        "display_text_range": [
+          14,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104350378213167509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1258361136841457664",
+              "start": 0,
+              "username": "ShiauPa46QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104350378213167509",
+        "in_reply_to_user_id": "1258361136841457664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104319095944679872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiauPa46QwQ 就看和什么东西比较了 \n跟 iPad 或一般的安卓平板相比普遍要重不少 \n但如果和普通轻薄本比算是降维打击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258361136841457664",
+        "conversation_id": "2104319095944679872",
+        "created_at": "2026-09-27T21:15:43.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T22:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104319095944679872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104319095944679872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有用过Surface平板的，这东西轻还是重，想搞个来玩玩😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2104350378213167509",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 364,
+          "like_count": 18995,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-07T11:41:21.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️|2007年生|二次元正太控|漢語○ English△ にほんご△|亞文化大手子|曾经是语言学爱好者和Conlanger|希望和大家交朋友！\n|前世:@ShiauPa0746|无涩里推@ShiauPa_elo\n|Bluesky: https://t.co/Jhm81vJE4O",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "ShiauPa0746"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "ShiauPa_elo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shiaup…",
+                "end": 147,
+                "expanded_url": "http://bsky.app/profile/shiaupa.top",
+                "start": 124,
+                "url": "https://t.co/Jhm81vJE4O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiaupa.top",
+                "end": 23,
+                "expanded_url": "http://shiaupa.top",
+                "start": 0,
+                "url": "https://t.co/ckdLtAYPqm"
+              }
+            ]
+          }
+        },
+        "id": "1258361136841457664",
+        "is_identity_verified": false,
+        "location": "Earth",
+        "most_recent_tweet_id": "2104319095944679872",
+        "name": "晓怕ShiauPa 🐱💫",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103184225558233088/oagrLY91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 608,
+          "like_count": 3510,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/ckdLtAYPqm",
+        "username": "ShiauPa46QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

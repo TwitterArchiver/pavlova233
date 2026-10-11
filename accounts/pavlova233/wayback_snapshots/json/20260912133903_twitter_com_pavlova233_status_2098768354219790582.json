@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098695571615956992",
+        "3_2098695578339377152",
+        "3_2098695574983995392"
+      ],
+      "media_source_tweet_id": [
+        "2098695582013677606",
+        "2098695582013677606",
+        "2098695582013677606"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "conversation_id": "2098768354219790582",
+    "created_at": "2026-09-12T13:39:03.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098768354219790582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0W3ZFYFomq",
+          "end": 59,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2098695582013677606/photo/1",
+          "media_key": "3_2098695571615956992",
+          "start": 36,
+          "url": "https://t.co/0W3ZFYFomq"
+        },
+        {
+          "display_url": "pic.x.com/0W3ZFYFomq",
+          "end": 59,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2098695582013677606/photo/1",
+          "media_key": "3_2098695578339377152",
+          "start": 36,
+          "url": "https://t.co/0W3ZFYFomq"
+        },
+        {
+          "display_url": "pic.x.com/0W3ZFYFomq",
+          "end": 59,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2098695582013677606/photo/1",
+          "media_key": "3_2098695574983995392",
+          "start": 36,
+          "url": "https://t.co/0W3ZFYFomq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098768354219790582",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098695571615956992"
+      },
+      {
+        "media_key": "3_2098695578339377152"
+      },
+      {
+        "media_key": "3_2098695574983995392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098695582013677606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Ak1raQ_love: 嗨！这里是阿弃Akiramenai！ https://t.co/0W3ZFYFomq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_2098695571615956992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAQgMXawAAKYoZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2098695578339377152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAQglaaAAAM7Rs.jpg",
+        "width": 2000
+      },
+      {
+        "height": 931,
+        "media_key": "3_2098695574983995392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAQgY6a8AALgng.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098695571615956992",
+            "3_2098695578339377152",
+            "3_2098695574983995392"
+          ],
+          "media_source_tweet_id": [
+            "2098695582013677606",
+            "2098695582013677606",
+            "2098695582013677606"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "conversation_id": "2098768354219790582",
+        "created_at": "2026-09-12T13:39:03.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098768354219790582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0W3ZFYFomq",
+              "end": 59,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2098695582013677606/photo/1",
+              "media_key": "3_2098695571615956992",
+              "start": 36,
+              "url": "https://t.co/0W3ZFYFomq"
+            },
+            {
+              "display_url": "pic.x.com/0W3ZFYFomq",
+              "end": 59,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2098695582013677606/photo/1",
+              "media_key": "3_2098695578339377152",
+              "start": 36,
+              "url": "https://t.co/0W3ZFYFomq"
+            },
+            {
+              "display_url": "pic.x.com/0W3ZFYFomq",
+              "end": 59,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2098695582013677606/photo/1",
+              "media_key": "3_2098695574983995392",
+              "start": 36,
+              "url": "https://t.co/0W3ZFYFomq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098768354219790582",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098695571615956992"
+          },
+          {
+            "media_key": "3_2098695578339377152"
+          },
+          {
+            "media_key": "3_2098695574983995392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098695582013677606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Ak1raQ_love: 嗨！这里是阿弃Akiramenai！ https://t.co/0W3ZFYFomq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098695571615956992",
+            "3_2098695578339377152",
+            "3_2098695574983995392"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2098695582013677606",
+        "created_at": "2026-09-12T08:49:53.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098695582013677606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0W3ZFYFomq",
+              "end": 42,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2098695582013677606/photo/1",
+              "media_key": "3_2098695571615956992",
+              "start": 19,
+              "url": "https://t.co/0W3ZFYFomq"
+            },
+            {
+              "display_url": "pic.x.com/0W3ZFYFomq",
+              "end": 42,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2098695582013677606/photo/1",
+              "media_key": "3_2098695578339377152",
+              "start": 19,
+              "url": "https://t.co/0W3ZFYFomq"
+            },
+            {
+              "display_url": "pic.x.com/0W3ZFYFomq",
+              "end": 42,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2098695582013677606/photo/1",
+              "media_key": "3_2098695574983995392",
+              "start": 19,
+              "url": "https://t.co/0W3ZFYFomq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098695582013677606",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098695571615956992"
+          },
+          {
+            "media_key": "3_2098695578339377152"
+          },
+          {
+            "media_key": "3_2098695574983995392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1186,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "other",
+        "text": "嗨！这里是阿弃Akiramenai！ https://t.co/0W3ZFYFomq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ogōri-shimogō, Yamaguchi, Japan",
+              "geo": {
+                "coordinates": [
+                  131.4,
+                  34.1
+                ],
+                "type": "Point"
+              },
+              "locality": "Ogōri-shimogō",
+              "region": "Yamaguchi"
+            }
+          ]
+        },
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "幻想郷",
+        "most_recent_tweet_id": "2098768354219790582",
+        "name": "Pavlova☘️",
+        "pinned_tweet_id": "2096683264509673554",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 349,
+          "like_count": 16613,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "天津/厦门/苏州",
+        "most_recent_tweet_id": "2098764768039653425",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8863,
+          "following_count": 1305,
+          "like_count": 226284,
+          "listed_count": 7,
+          "media_count": 1342,
+          "tweet_count": 9726
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

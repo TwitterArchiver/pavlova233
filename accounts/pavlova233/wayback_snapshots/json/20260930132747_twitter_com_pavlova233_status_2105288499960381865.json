@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2105244597194838146",
+    "created_at": "2026-09-30T13:27:47.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T14:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105288499960381865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939124060090478592",
+          "start": 0,
+          "username": "KananosaK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105288499960381865",
+    "in_reply_to_user_id": "1939124060090478592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105244597194838146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KananosaK 直接刷 😈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2756,
+        "media_key": "3_2105244570397315072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdUyF_aEAAuO7p.jpg",
+        "width": 1268
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2105244588093169664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdUzH6bYAAJPsF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2105244597194838146",
+        "created_at": "2026-09-30T13:27:47.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105288499960381865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939124060090478592",
+              "start": 0,
+              "username": "KananosaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105288499960381865",
+        "in_reply_to_user_id": "1939124060090478592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105244597194838146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KananosaK 直接刷 😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105244570397315072",
+            "3_2105244588093169664"
+          ]
+        },
+        "author_id": "1939124060090478592",
+        "conversation_id": "2105244597194838146",
+        "created_at": "2026-09-30T10:33:20.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105244597194838146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kew8jy08Hl",
+              "end": 45,
+              "expanded_url": "https://x.com/KananosaK/status/2105244597194838146/photo/1",
+              "media_key": "3_2105244570397315072",
+              "start": 22,
+              "url": "https://t.co/Kew8jy08Hl"
+            },
+            {
+              "display_url": "pic.x.com/Kew8jy08Hl",
+              "end": 45,
+              "expanded_url": "https://x.com/KananosaK/status/2105244597194838146/photo/1",
+              "media_key": "3_2105244588093169664",
+              "start": 22,
+              "url": "https://t.co/Kew8jy08Hl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105244597194838146",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105244570397315072"
+          },
+          {
+            "media_key": "3_2105244588093169664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很可惜 我真的找不到这种味道了\n小米... https://t.co/Kew8jy08Hl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2105288499960381865",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 367,
+          "like_count": 19412,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T00:49:44.000Z",
+        "description": "Kananosa On X!\nPronous me \"they/them\"",
+        "id": "1939124060090478592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105246852946047206",
+        "name": "Kananosa",
+        "pinned_tweet_id": "2087015949207748808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939124060090478592/1787498743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091534658014183424/pw69Baxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 88,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 337
+        },
+        "url": "",
+        "username": "KananosaK",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2101272762681614633",
+    "created_at": "2026-09-19T15:01:56.000Z",
+    "display_text_range": [
+      12,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101325927720636514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101325927720636514",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101272762681614633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 定制机性价比还是不错的 ) \n我之前 100 左右买的运营商版华为 AX3 单从网速方面比我后面 150 收的米好不少 可惜后面貌似刷系统给刷废了 (x \n就是折腾要花点时间 如果不需要就更好了w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2101272737096282112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSk4a97WMAAwKxi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2101272726451179520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSk4aWRW0AAmRdD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1186,
+        "media_key": "3_2101272758936014848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSk4cPSWEAAkJ0g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2101272762681614633",
+        "created_at": "2026-09-19T15:01:56.000Z",
+        "display_text_range": [
+          12,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101325927720636514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101325927720636514",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101272762681614633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 定制机性价比还是不错的 ) \n我之前 100 左右买的运营商版华为 AX3 单从网速方面比我后面 150 收的米好不少 可惜后面貌似刷系统给刷废了 (x \n就是折腾要花点时间 如果不需要就更好了w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101272737096282112",
+            "3_2101272726451179520",
+            "3_2101272758936014848"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2101272762681614633",
+        "created_at": "2026-09-19T11:30:41.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101272762681614633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3EHMIEAaCq",
+              "end": 173,
+              "expanded_url": "https://x.com/mario_2333/status/2101272762681614633/photo/1",
+              "media_key": "3_2101272737096282112",
+              "start": 150,
+              "url": "https://t.co/3EHMIEAaCq"
+            },
+            {
+              "display_url": "pic.x.com/3EHMIEAaCq",
+              "end": 173,
+              "expanded_url": "https://x.com/mario_2333/status/2101272762681614633/photo/1",
+              "media_key": "3_2101272726451179520",
+              "start": 150,
+              "url": "https://t.co/3EHMIEAaCq"
+            },
+            {
+              "display_url": "pic.x.com/3EHMIEAaCq",
+              "end": 173,
+              "expanded_url": "https://x.com/mario_2333/status/2101272762681614633/photo/1",
+              "media_key": "3_2101272758936014848",
+              "start": 150,
+              "url": "https://t.co/3EHMIEAaCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101272762681614633",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101272737096282112"
+          },
+          {
+            "media_key": "3_2101272726451179520"
+          },
+          {
+            "media_key": "3_2101272758936014848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 957,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了一个神秘的增智慧4G路由器，还挺好看倒是，看起来是芬兰运营商淘汰的定制机呢，接下来一段时间应该就这么上网了（\n\n虽然咱非常讨厌华为，但是这个只要30欧，而且千兆有线+LTE Cat 9，就是可以3载波聚合。别的二手就算是淘汰的定制机也都要40~100欧，并且要么缺频段或者只有Cat 6，真香（ https://t.co/3EHMIEAaCq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2101325927720636514",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101289810149453824/6Uq2j2ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 357,
+          "like_count": 17703,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家交朋友，会温暖对待每个友善的人🥰 | 本体是一种猫🐱 | 18 y.o. forever (⁠≧⁠▽⁠≦⁠) | 可爱即正义！| 小可爱贴贴贴贴💕 | 日常和碎碎念✨ | 蓝标陌生人送的我是真人没收益😘 | 联系请戳tg⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "is_identity_verified": false,
+        "location": "UTC+2",
+        "most_recent_tweet_id": "2101282044957298756",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/965583779380129792/1778057704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4400,
+          "following_count": 284,
+          "like_count": 63307,
+          "listed_count": 20,
+          "media_count": 1291,
+          "tweet_count": 20807
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

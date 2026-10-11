@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096471789086134272",
+        "3_2096471789077766144"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096471805913596367",
+    "created_at": "2026-09-06T05:33:23.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T06:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096471805913596367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xBFxsuoJyf",
+          "end": 61,
+          "expanded_url": "https://x.com/pavlova233/status/2096471805913596367/photo/1",
+          "media_key": "3_2096471789086134272",
+          "start": 38,
+          "url": "https://t.co/xBFxsuoJyf"
+        },
+        {
+          "display_url": "pic.x.com/xBFxsuoJyf",
+          "end": 61,
+          "expanded_url": "https://x.com/pavlova233/status/2096471805913596367/photo/1",
+          "media_key": "3_2096471789077766144",
+          "start": 38,
+          "url": "https://t.co/xBFxsuoJyf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096471805913596367",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096471789086134272"
+      },
+      {
+        "media_key": "3_2096471789077766144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和千草茶一起吃午餐 ! \n被送了一碗罗宋汤 可惜我时间赶没能多聊几句 () https://t.co/xBFxsuoJyf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2096471789086134272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgp_A4bUAAFPss.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2096471789077766144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgp_A2boAAx-Cu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096471789086134272",
+            "3_2096471789077766144"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096471805913596367",
+        "created_at": "2026-09-06T05:33:23.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096471805913596367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBFxsuoJyf",
+              "end": 61,
+              "expanded_url": "https://x.com/pavlova233/status/2096471805913596367/photo/1",
+              "media_key": "3_2096471789086134272",
+              "start": 38,
+              "url": "https://t.co/xBFxsuoJyf"
+            },
+            {
+              "display_url": "pic.x.com/xBFxsuoJyf",
+              "end": 61,
+              "expanded_url": "https://x.com/pavlova233/status/2096471805913596367/photo/1",
+              "media_key": "3_2096471789077766144",
+              "start": 38,
+              "url": "https://t.co/xBFxsuoJyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096471805913596367",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096471789086134272"
+          },
+          {
+            "media_key": "3_2096471789077766144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和千草茶一起吃午餐 ! \n被送了一碗罗宋汤 可惜我时间赶没能多聊几句 () https://t.co/xBFxsuoJyf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2096471805913596367",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 336,
+          "like_count": 15582,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

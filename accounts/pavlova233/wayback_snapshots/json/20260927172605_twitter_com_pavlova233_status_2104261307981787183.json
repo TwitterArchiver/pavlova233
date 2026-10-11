@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2104251910735986825",
+    "created_at": "2026-09-27T17:26:05.000Z",
+    "display_text_range": [
+      19,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T18:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104261307981787183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2044741695699574784",
+          "start": 0,
+          "username": "vvnuds"
+        },
+        {
+          "end": 18,
+          "id": "1877008234890043392",
+          "start": 8,
+          "username": "Leapan_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104261307981787183",
+    "in_reply_to_user_id": "2044741695699574784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104252558844043382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vvnuds @Leapan_01 不知道还能坚持多久 \n纠结了很久要不要发 AIGC 内容 也许可以很大程度提高更新频率和内容广度 但质量和可复现概率又太难保证 \n当前的选择是严格控制比例并且只公开发一部分经他人验证可完整复现的 ()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2104251910735986825",
+        "created_at": "2026-09-27T17:26:05.000Z",
+        "display_text_range": [
+          19,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104261307981787183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2044741695699574784",
+              "start": 0,
+              "username": "vvnuds"
+            },
+            {
+              "end": 18,
+              "id": "1877008234890043392",
+              "start": 8,
+              "username": "Leapan_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104261307981787183",
+        "in_reply_to_user_id": "2044741695699574784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104252558844043382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vvnuds @Leapan_01 不知道还能坚持多久 \n纠结了很久要不要发 AIGC 内容 也许可以很大程度提高更新频率和内容广度 但质量和可复现概率又太难保证 \n当前的选择是严格控制比例并且只公开发一部分经他人验证可完整复现的 ()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044741695699574784",
+        "conversation_id": "2104251910735986825",
+        "created_at": "2026-09-27T16:51:19.000Z",
+        "display_text_range": [
+          23,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104252558844043382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            },
+            {
+              "end": 22,
+              "id": "1877008234890043392",
+              "start": 12,
+              "username": "Leapan_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104252558844043382",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104251910735986825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 @Leapan_01 都是古法手工文章，看着非常有趣 🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2104261307981787183",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 363,
+          "like_count": 18953,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-16T11:36:52.000Z",
+        "description": "平时写写代码，做点自己想用的小工具。\n欢迎不同国籍的朋友们一起交流。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yuxino",
+                "end": 23,
+                "expanded_url": "https://github.com/yuxino",
+                "start": 0,
+                "url": "https://t.co/H92CoFouUV"
+              }
+            ]
+          }
+        },
+        "id": "2044741695699574784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104252558844043382",
+        "name": "Meow",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044741695699574784/1788668068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096455742647877632/xbSkTW3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 622,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/H92CoFouUV",
+        "username": "vvnuds",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-08T15:03:40.000Z",
+        "description": "采菊东篱下，悠然见南山。\n精神病享受者 / 友跨🏳️‍⚧️\nCoding / Maintaining / Thinking\n以博客内容更新为主\n偶尔思考，偶尔消失",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gardenwalk.moe",
+                "end": 23,
+                "expanded_url": "https://www.gardenwalk.moe",
+                "start": 0,
+                "url": "https://t.co/ckd5fIJPQZ"
+              }
+            ]
+          }
+        },
+        "id": "1877008234890043392",
+        "is_identity_verified": false,
+        "location": "幻想鄉",
+        "most_recent_tweet_id": "2104113751679291659",
+        "name": "Leapan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877008234890043392/1738000849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098770031001915393/2WN_G_-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 872,
+          "like_count": 3108,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/ckd5fIJPQZ",
+        "username": "Leapan_01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

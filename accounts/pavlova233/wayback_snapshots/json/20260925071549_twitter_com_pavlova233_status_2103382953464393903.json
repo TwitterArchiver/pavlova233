@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2103379004774584639",
+    "created_at": "2026-09-25T07:15:49.000Z",
+    "display_text_range": [
+      12,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103382953464393903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "711416852845617152",
+          "start": 0,
+          "username": "Flyfish233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103382953464393903",
+    "in_reply_to_user_id": "711416852845617152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103381687996760330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Flyfish233 没啥新意是真的，我感觉真要养成啥的也就是第二个啤酒烧烤。\n我觉得既然是引诱还是得先把判定做好，这点上我认为有进步，但也仅此而已了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2103379004774584639",
+        "created_at": "2026-09-25T07:15:49.000Z",
+        "display_text_range": [
+          12,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103382953464393903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "711416852845617152",
+              "start": 0,
+              "username": "Flyfish233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103382953464393903",
+        "in_reply_to_user_id": "711416852845617152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103381687996760330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Flyfish233 没啥新意是真的，我感觉真要养成啥的也就是第二个啤酒烧烤。\n我觉得既然是引诱还是得先把判定做好，这点上我认为有进步，但也仅此而已了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "711416852845617152",
+        "conversation_id": "2103379004774584639",
+        "created_at": "2026-09-25T07:10:48.000Z",
+        "display_text_range": [
+          12,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103381687996760330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "pavlova233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103381687996760330",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103379004774584639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pavlova233 很想吐槽，无论从哪一点我都对这款游戏感到失望，我的话看看剧情得了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2103382953464393903",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 360,
+          "like_count": 18410,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-20T04:59:30.000Z",
+        "description": "20↑ ·LocalLLaMA/AOSP/Reverse Engineering/TV Anime/Vocaloid/EDM/Rhythm Games\nShip: MinoHaru/SoyoAnon",
+        "id": "711416852845617152",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2103381687996760330",
+        "name": "Flyfish233",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/711416852845617152/1771806339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605560558849122304/4hEoYWAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 345,
+          "like_count": 4083,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "Flyfish233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

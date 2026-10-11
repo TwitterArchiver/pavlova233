@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2101186367766356381",
+    "created_at": "2026-09-19T11:11:42.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T12:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101267988645331025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101267988645331025",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101186367766356381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Mashiro_ Fcitx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2101186367766356381",
+        "created_at": "2026-09-19T11:11:42.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101267988645331025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101267988645331025",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101186367766356381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Mashiro_ Fcitx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995146888249778177",
+        "conversation_id": "2101186367766356381",
+        "created_at": "2026-09-19T05:47:22.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T06:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101186367766356381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101186367766356381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隐私什么的都无所谓了,谁给我来一个最好用的输入法"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2101267988645331025",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101250233745412096/wgAJLalq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 357,
+          "like_count": 17638,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女｜处于HRT与非HRT叠加态｜J-POP｜LLM｜ACGN｜JP（N2） EN CN｜SillyTavern二开及插件开发者\nTG:https://t.co/mrZzq3tXAY(24h在线)\n个人博客:https://t.co/PVGkqciT7N\n匿名提问:https://t.co/520DUeTJuy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rin_Mashiro",
+                "end": 94,
+                "expanded_url": "https://t.me/Rin_Mashiro",
+                "start": 71,
+                "url": "https://t.co/mrZzq3tXAY"
+              },
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 130,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 107,
+                "url": "https://t.co/PVGkqciT7N"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 159,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 136,
+                "url": "https://t.co/520DUeTJuy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqciT7N"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101267969771008439",
+        "name": "Rin",
+        "pinned_tweet_id": "2095914123938943477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995146888249778177/1789446351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 141,
+          "like_count": 1639,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 4143
+        },
+        "url": "https://t.co/PVGkqciT7N",
+        "username": "Rin_Mashiro_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106723909982887936"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "conversation_id": "2106682246522691772",
+    "created_at": "2026-10-04T12:31:38.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T13:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106723920384791034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482030767358496768",
+          "start": 0,
+          "username": "tcdwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oaNvHyIxTa",
+          "end": 36,
+          "expanded_url": "https://x.com/pavlova233/status/2106723920384791034/photo/1",
+          "media_key": "3_2106723909982887936",
+          "start": 13,
+          "url": "https://t.co/oaNvHyIxTa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106723920384791034",
+    "in_reply_to_user_id": "1482030767358496768",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106723909982887936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106682246522691772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcdwww 色弱 ( https://t.co/oaNvHyIxTa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106723909982887936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyWO_ZaIAAjotm.jpg",
+        "width": 946
+      },
+      {
+        "height": 1459,
+        "media_key": "3_2106682236208848897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxwVQfaoAEZe9b.jpg",
+        "width": 1523
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106723909982887936"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "conversation_id": "2106682246522691772",
+        "created_at": "2026-10-04T12:31:38.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106723920384791034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oaNvHyIxTa",
+              "end": 36,
+              "expanded_url": "https://x.com/pavlova233/status/2106723920384791034/photo/1",
+              "media_key": "3_2106723909982887936",
+              "start": 13,
+              "url": "https://t.co/oaNvHyIxTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106723920384791034",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106723909982887936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106682246522691772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww 色弱 ( https://t.co/oaNvHyIxTa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106682236208848897"
+          ]
+        },
+        "author_id": "1482030767358496768",
+        "conversation_id": "2106682246522691772",
+        "created_at": "2026-10-04T09:46:02.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T10:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106682246522691772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QgGyIjiLQf",
+              "end": 29,
+              "expanded_url": "https://x.com/tcdwww/status/2106682246522691772/photo/1",
+              "media_key": "3_2106682236208848897",
+              "start": 6,
+              "url": "https://t.co/QgGyIjiLQf"
+            },
+            {
+              "display_url": "x.com/LynzRand/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/LynzRand/status/2106648990561477076",
+              "start": 30,
+              "url": "https://t.co/w3OeYqi9hw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106682246522691772",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106682236208848897"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1618,
+          "like_count": 30,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106648990561477076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一败涂地（ https://t.co/QgGyIjiLQf https://t.co/w3OeYqi9hw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2106723920384791034",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 378,
+          "like_count": 20348,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "无业游民，寻找前端（优势的全栈）工作中 ➡️ https://t.co/PJzvjsrjw4\nAvatar illustration by @KGY_HN\naka. 陶瓷大碗/吐槽大王 | 非垂类帐号 | 不迎合任何人 | 关注 ≠ 完全赞同其立场 | 蓝标是陌生人送的，碗本质上是一般推油",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 70,
+                "username": "KGY_HN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "resume.tcdw.net",
+                "end": 46,
+                "expanded_url": "http://resume.tcdw.net",
+                "start": 23,
+                "url": "https://t.co/PJzvjsrjw4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "im.tcdw.net",
+                "end": 23,
+                "expanded_url": "https://im.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/Zwe61cBpLj"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2106682246522691772",
+        "name": "碗",
+        "pinned_tweet_id": "2098002008607498397",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482030767358496768/1787632331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092098683156475904/Vxd4l4M__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 657,
+          "like_count": 114360,
+          "listed_count": 15,
+          "media_count": 1310,
+          "tweet_count": 15105
+        },
+        "url": "https://t.co/Zwe61cBpLj",
+        "username": "tcdwww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

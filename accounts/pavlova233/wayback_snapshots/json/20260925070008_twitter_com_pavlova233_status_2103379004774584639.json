@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103378998403469312",
+        "3_2103378998411829248",
+        "3_2103378998382518272",
+        "3_2103379001729490944"
+      ]
+    },
+    "author_id": "1676119892230037509",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103379004774584639",
+    "created_at": "2026-09-25T07:00:08.000Z",
+    "display_text_range": [
+      0,
+      154
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103379004774584639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hdypl7UQ07",
+          "end": 178,
+          "expanded_url": "https://x.com/pavlova233/status/2103379004774584639/photo/1",
+          "media_key": "3_2103378998403469312",
+          "start": 155,
+          "url": "https://t.co/Hdypl7UQ07"
+        },
+        {
+          "display_url": "pic.x.com/Hdypl7UQ07",
+          "end": 178,
+          "expanded_url": "https://x.com/pavlova233/status/2103379004774584639/photo/1",
+          "media_key": "3_2103378998411829248",
+          "start": 155,
+          "url": "https://t.co/Hdypl7UQ07"
+        },
+        {
+          "display_url": "pic.x.com/Hdypl7UQ07",
+          "end": 178,
+          "expanded_url": "https://x.com/pavlova233/status/2103379004774584639/photo/1",
+          "media_key": "3_2103378998382518272",
+          "start": 155,
+          "url": "https://t.co/Hdypl7UQ07"
+        },
+        {
+          "display_url": "pic.x.com/Hdypl7UQ07",
+          "end": 178,
+          "expanded_url": "https://x.com/pavlova233/status/2103379004774584639/photo/1",
+          "media_key": "3_2103379001729490944",
+          "start": 155,
+          "url": "https://t.co/Hdypl7UQ07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103379004774584639",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103378998403469312"
+      },
+      {
+        "media_key": "3_2103378998411829248"
+      },
+      {
+        "media_key": "3_2103378998382518272"
+      },
+      {
+        "media_key": "3_2103379001729490944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩了会新邦，从烤批视角分享下游玩体验 (?)\n自认为手感比国邦好得多，至少不会低难度谱莫名其妙 Miss，而且打出好不掉 Combo。福利听说一般但实际抽卡体验貌似还行，可能是刚玩的缘故三次十连能出六张 SSR。\n缺点也很明显，侧划手感依旧一坨而且直接放在红谱，有的 24 加上侧划感觉比 27 还难打。。。 https://t.co/Hdypl7UQ07"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2103378998403469312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC0DgvbEAAflRe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 943,
+        "media_key": "3_2103378998411829248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC0DgxaoAAaKFe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 943,
+        "media_key": "3_2103378998382518272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC0DgqbYAAQtU-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 943,
+        "media_key": "3_2103379001729490944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC0DtIaIAATN8R.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103378998403469312",
+            "3_2103378998411829248",
+            "3_2103378998382518272",
+            "3_2103379001729490944"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103379004774584639",
+        "created_at": "2026-09-25T07:00:08.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103379004774584639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hdypl7UQ07",
+              "end": 178,
+              "expanded_url": "https://x.com/pavlova233/status/2103379004774584639/photo/1",
+              "media_key": "3_2103378998403469312",
+              "start": 155,
+              "url": "https://t.co/Hdypl7UQ07"
+            },
+            {
+              "display_url": "pic.x.com/Hdypl7UQ07",
+              "end": 178,
+              "expanded_url": "https://x.com/pavlova233/status/2103379004774584639/photo/1",
+              "media_key": "3_2103378998411829248",
+              "start": 155,
+              "url": "https://t.co/Hdypl7UQ07"
+            },
+            {
+              "display_url": "pic.x.com/Hdypl7UQ07",
+              "end": 178,
+              "expanded_url": "https://x.com/pavlova233/status/2103379004774584639/photo/1",
+              "media_key": "3_2103378998382518272",
+              "start": 155,
+              "url": "https://t.co/Hdypl7UQ07"
+            },
+            {
+              "display_url": "pic.x.com/Hdypl7UQ07",
+              "end": 178,
+              "expanded_url": "https://x.com/pavlova233/status/2103379004774584639/photo/1",
+              "media_key": "3_2103379001729490944",
+              "start": 155,
+              "url": "https://t.co/Hdypl7UQ07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103379004774584639",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103378998403469312"
+          },
+          {
+            "media_key": "3_2103378998411829248"
+          },
+          {
+            "media_key": "3_2103378998382518272"
+          },
+          {
+            "media_key": "3_2103379001729490944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩了会新邦，从烤批视角分享下游玩体验 (?)\n自认为手感比国邦好得多，至少不会低难度谱莫名其妙 Miss，而且打出好不掉 Combo。福利听说一般但实际抽卡体验貌似还行，可能是刚玩的缘故三次十连能出六张 SSR。\n缺点也很明显，侧划手感依旧一坨而且直接放在红谱，有的 24 加上侧划感觉比 27 还难打。。。 https://t.co/Hdypl7UQ07"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "低浮上 | あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbdaPu"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Sanming",
+        "most_recent_tweet_id": "2103379004774584639",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101504156859318273/UnDt6tdb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 360,
+          "like_count": 18404,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/LwoWVbdaPu",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

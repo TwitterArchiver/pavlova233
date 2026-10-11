@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676119892230037509",
+    "conversation_id": "2094549822741372955",
+    "created_at": "2026-09-01T13:37:31.000Z",
+    "display_text_range": [
+      28,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T14:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094781700861767949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048331424504463360",
+          "start": 0,
+          "username": "Com0loquieras"
+        },
+        {
+          "end": 27,
+          "id": "2083907119385067520",
+          "start": 15,
+          "username": "Yukizomecat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094781700861767949",
+    "in_reply_to_user_id": "2048331424504463360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094624302062776740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Com0loquieras @Yukizomecat 相反当下它已经能完成大多数基础工作并且效率远高于普通人 而真正遇到问题的时候还是得靠人来解决"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2094549822741372955",
+        "created_at": "2026-09-01T13:37:31.000Z",
+        "display_text_range": [
+          28,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094781700861767949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048331424504463360",
+              "start": 0,
+              "username": "Com0loquieras"
+            },
+            {
+              "end": 27,
+              "id": "2083907119385067520",
+              "start": 15,
+              "username": "Yukizomecat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094781700861767949",
+        "in_reply_to_user_id": "2048331424504463360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094624302062776740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Com0loquieras @Yukizomecat 相反当下它已经能完成大多数基础工作并且效率远高于普通人 而真正遇到问题的时候还是得靠人来解决"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048331424504463360",
+        "conversation_id": "2094549822741372955",
+        "created_at": "2026-09-01T03:12:04.000Z",
+        "display_text_range": [
+          13,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094624302062776740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083907119385067520",
+              "start": 0,
+              "username": "Yukizomecat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094624302062776740",
+        "in_reply_to_user_id": "2083907119385067520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094549822741372955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukizomecat 但是可以极大的浪费你的钱\n于是我选择去学个技能然后写的时候我无法搞定的报错要AI搞定"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "あの日僕は君と、終わらない夏の夢に落ちた。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.nekro.top",
+                "end": 23,
+                "expanded_url": "https://blog.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/LwoWVbcCZW"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "is_identity_verified": true,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2094781700861767949",
+        "name": "Pavlova☘️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676119892230037509/1786881225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 329,
+          "like_count": 14852,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/LwoWVbcCZW",
+        "username": "pavlova233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10 180cm/81kg\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,internet,español CEFR A1\n性格特点：直球 拉美大手子 大男娘 梦到什么说什么 谈崩专家不善言辞 身体不好 性压抑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "867678.xyz",
+                "end": 23,
+                "expanded_url": "https://867678.xyz",
+                "start": 0,
+                "url": "https://t.co/S3HBBI7wbC"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "is_identity_verified": false,
+        "location": "Virreinato de Nueva España",
+        "most_recent_tweet_id": "2094778815214223540",
+        "name": "Gato🇪🇸🇲🇽🇨🇴🇵🇪🇦🇷🇨🇱",
+        "pinned_tweet_id": "2094311814276493360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048331424504463360/1786365601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093952578551959552/Eh2f0V6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 307,
+          "like_count": 14052,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 6301
+        },
+        "url": "https://t.co/S3HBBI7wbC",
+        "username": "Com0loquieras",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T13:26:37.000Z",
+        "description": " / 中国人 / 🍥 / 🟦V互关 / 我想要被你关注.\n\n「血色を纏い、山川を越えてゆく。」\n\n另一个我 @wuyuandev",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "wuyuandev"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunayurari.vercel.app",
+                "end": 23,
+                "expanded_url": "http://lunayurari.vercel.app",
+                "start": 0,
+                "url": "https://t.co/Kf47cPt0sp"
+              }
+            ]
+          }
+        },
+        "id": "2083907119385067520",
+        "is_identity_verified": false,
+        "location": "霜月",
+        "most_recent_tweet_id": "2094767115802902549",
+        "name": "染指ユキナ",
+        "pinned_tweet_id": "2094446191186764199",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083907119385067520/1788101824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083938691492597760/HRGu_zMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 104,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/Kf47cPt0sp",
+        "username": "Yukizomecat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
